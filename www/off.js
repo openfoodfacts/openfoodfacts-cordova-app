@@ -586,7 +586,9 @@ function uploadFile(path) {
         },
         function(error) {
         	uploads_in_progress--;
-            console.log('Error uploading file ' + path + ': ' + error.code);
+            console.log('Error uploading file - path:' + path + ' - error code: ' + error.code);
+			console.log("upload error source: " + error.source);
+			console.log("upload error target: " + error.target);
             $('#' + uploading).html("<p>" + $.i18n("msg_upload_problem") + "<input id=\"" + uploading + "_retry\" type=\"button\" value=\"" + $.i18n("msg_upload_retry") + "\"\" ></p>");
             $('#' + uploading + "_retry").click(function() {
   				uploadFile(path);
@@ -827,7 +829,7 @@ function showProduct( urlObj, options )
 		continuous_scan = false;
 	}
 
-	var code = urlObj.hash.replace( /.*code=/, "" ),
+	code = urlObj.hash.replace( /.*code=/, "" ),
 
 		// Get the object that represents the category we
 		// are interested in. Note, that at this point we could
