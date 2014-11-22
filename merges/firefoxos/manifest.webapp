@@ -13,5 +13,13 @@
     "icons": {
         "60": "/res/icons/firefoxos/icon-60.png",
         "128": "/res/icons/firefoxos/icon-128.png"
+    },
+    "permissions": {
+        "video-capture": {
+            "description": "Required to capture audio via getUserMedia"
+        },
+        "camera": {
+            "description": "Required for accessing cameras on the device."
+        }
     }
 }
