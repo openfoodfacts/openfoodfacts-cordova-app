@@ -25,6 +25,8 @@ var code;
 var scanning = false;
 
 
+console.log("start");
+
 
 
 var uploads_in_progress = 0;
@@ -68,9 +70,9 @@ var uploads_in_progress = 0;
             function openSuccess(result) {
                 openStatusLabel.innerHTML = "";
                	if (speech == 'on') {               
-                	window.plugins.tts.speak($.i18n("msg_tts_database_sync_in_progress"));
+                	//window.plugins.tts.speak($.i18n("msg_tts_database_sync_in_progress"));
                 }
-                MoodstocksPlugin.sync(null, syncInProgress, syncFinished, syncFailure);
+               // MoodstocksPlugin.sync(null, syncInProgress, syncFinished, syncFailure);
             }
 
             function openFailure(result) {
@@ -286,20 +288,49 @@ for (var i = 0; i < length; i++) {
 	
 
 function onDeviceReady() {
+
+console.log("onDeviceReady");
+
+
+$.ajaxPrefilter(function(options) {
+	console.log("ajaxPrefilter");
+
+    if (options.xhrConstructParam) {
+        options.xhr = function() {
+            return new window.XMLHttpRequest(options.xhrConstructParam);
+        }
+    }
+});
+
+//for FirefoxOS (require "mozSystem" param in AJAX calls)
+var xhrConstructParam = null;
+xhrConstructParam = {
+    mozSystem: true
+};
+
+console.log("ajaxSetup");
+
+
+//default settings for AJAX methods
+$.ajaxSetup({
+    xhrConstructParam: xhrConstructParam
+});
+
+
 	console.log("onDeviceReady()");
     // Now safe to use the PhoneGap API
     document.addEventListener("menubutton", onMenuKeyDown, false);
     
 
                 // open the scanner setting your apikey & apisecrect
-                MoodstocksPlugin.open(openSuccess, openFailure);
-                scanButton.addEventListener("click", clickScan, false);
+                //MoodstocksPlugin.open(openSuccess, openFailure);
+                //scanButton.addEventListener("click", clickScan, false);
 				
   $('#page_home').live('pagebeforeshow',function(event) {
           console.log('#page_home pagebeforeshow 2');
     if (scanning) {
 		console.log("turning off scanner");
-		MoodstocksPlugin.dismiss(scannerOff,null);
+		//MoodstocksPlugin.dismiss(scannerOff,null);
 	}			
 
 		
@@ -331,12 +362,12 @@ function onDeviceReady() {
 				
         //MoodstocksPlugin.scan(scanSuccess, scanCancelled, scanFailure, buildScanOptions(), false, true, false);
 		console.log("continuous_scan is false, starting moodstocks scanner : MoodstocksPlugin.scan");
-        MoodstocksPlugin.scan(scanSuccess, scanCancelled, scanFailure, scanOptions, scanFlags);
-        scannerOn();
+        //MoodstocksPlugin.scan(scanSuccess, scanCancelled, scanFailure, scanOptions, scanFlags);
+        //scannerOn();
         }
 		else {
 			console.log("continuous_scan was true, resuming moodstocks scanner");
-			MoodstocksPlugin.resume();
+			//MoodstocksPlugin.resume();
 		}
         continuous_scan = false;
 		
@@ -383,6 +414,7 @@ function onDeviceReady() {
 
 
     
+console.log("bah 1");
 
 
 function update_language() {
@@ -403,6 +435,9 @@ function update_language() {
 
 
 jQuery( document ).ready( function ( $ ) {
+
+	console.log("jquery document ready");
+
 
 	if (window.localStorage.getItem("speech")) {
 		speech = window.localStorage.getItem("speech");
@@ -448,11 +483,13 @@ jQuery( document ).ready( function ( $ ) {
 
 	$('#speech').on('change keyup', update_speech_value );
 
+console.log("jquery document ready end");
 
 	
 } );
 
 
+console.log("bah 2");
 
 
 function onMenuKeyDown() {
@@ -619,6 +656,7 @@ function show_login () {
         
                 
 $('#search').submit(function() { // catch the form's submit event
+	console.log("search submit clicked");
 	$('#search_results').html('<div id="loading"><p>' + $.i18n("msg_search_in_progress") + '</p>'
 				+ '<img src="loading2.gif" /></div>');
     $.mobile.changePage( "#page_search", { transition: "none" });
@@ -782,10 +820,10 @@ function showProduct( urlObj, options )
 	
           console.log('showProduct - pausing moodstock scanner');
           moodstocksCurrentCode = 0;
-          MoodstocksPlugin.pause();
+          //MoodstocksPlugin.pause();
         
 	if (continuous_scan) {
-		MoodstocksPlugin.dismiss(scannerOff,null);
+		//MoodstocksPlugin.dismiss(scannerOff,null);
 		continuous_scan = false;
 	}
 
