@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "org.openfoodfacts.scanner"
+        versionCode="8" 
+        version   = "1.3">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Open Food Facts</name>
+
+    <description>Scannez le code barre des produits alimentaires pour obtenir les informations sur les ingrédients, additifs et la composition nutritionnelle.
+L'application permet de consulter les 3000 fiches produits déjà présentes dans la base de données libre et ouverte d'Open Food Facts, et également d'ajouter des photos pour les produits manquants.
+Pour découvrir le projet Open Food Facts, rendez vous sur http://fr.openfoodfacts.org</description>
+
+    <author href="https://fr.openfoodfacts.org" email="contact@openfoodfacts.org">Stéphane Gigandet</author>
+    
+<icon src="icon.png" /> 
+<icon src="icons/app-icon-57-fond-noir.png" width="57" height="57" /> 
+<icon src="icons/app-icon-72-fond-noir.png" gap:platform="ios" width="72" height="72" /> 
+<icon src="icons/app-icon-114-fond-noir" width="114" height="114" />     
+<icon src="icons/app-icon-144-fond-noir" width="144" height="144" />     
+
+<gap:splash src="splash/ios/Default.png" width="320" height="480" />
+<gap:splash src="splash/ios/Default_at_2x.png" width="640" height="960" />
+<gap:splash src="splash/ios/Default_iphone5.png" width="640" height="1136" />
+<gap:splash src="splash/ios/Default-Landscape.png" width="1024" height="768" />
+<gap:splash src="splash/ios/Default-Portrait.png" width="768" height="1024" />
+
+<gap:plugin name="BarcodeScanner" /> <!-- latest release -->
+
+<preference name="phonegap-version" value="2.1.0" />
+
+</widget>

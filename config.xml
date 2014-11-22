@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="org.openfoodfacts.scanner" android-versionCode="19" version="2.4.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>OpenFoodFacts</name>
+    <description>
+       Scan the barcode of food products, decrypt labels and contribute to the Open Food Facts project.
+    </description>
+    <author email="contact@openfoodfacts.org" href="http://openfoodfacts.org">
+        Stéphane Gigandet
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+	
+	<icon src="www/res/icons/icon-512.png" />
+	<platform name="android">
+          <icon src="www/res/icons/android/drawable-ldpi/icon-36.png" density="ldpi" />
+          <icon src="www/res/icons/android/drawable-mdpi/icon-48.png" density="mdpi" />
+          <icon src="www/res/icons/android/drawable-hdpi/icon-72.png" density="hdpi" />
+          <icon src="www/res/icons/android/drawable-xhdpi/icon-96.png" density="xhdpi" />
+    </platform>
+</widget>
