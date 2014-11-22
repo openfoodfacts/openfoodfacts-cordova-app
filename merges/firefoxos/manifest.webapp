@@ -1,0 +1,17 @@
+{
+    "launch_path": "/index.html",
+    "installs_allowed_from": [
+        "*"
+    ],
+    "version": "2.4.3",
+    "name": "OpenFoodFacts",
+    "description": "Scan the barcode of food products, decrypt labels and contribute to the Open Food Facts project.",
+    "developer": {
+        "name": "Stéphane Gigandet",
+        "url": "http://openfoodfacts.org"
+    },
+    "icons": {
+        "60": "/res/icons/firefoxos/icon-60.png",
+        "128": "/res/icons/firefoxos/icon-128.png"
+    }
+}
