@@ -16,7 +16,6 @@
 	"msg_password" : "Password:",
 	"msg_register" : "No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>",
 	"msg_language" : "Preferred language:",
-	"msg_language_info" : "Searching will return in priority products in the selected language, and products you add will be added to the corresponding version of Open Food Facts.",
 	"msg_parameters" : "Parameters",
 	"msg_hello" : "Hello $1!",
 	"msg_uploading" : "Sending in progress",
