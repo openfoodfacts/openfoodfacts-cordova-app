@@ -7,16 +7,20 @@ var speech = 'off';
 
 var supported_languages = {
 'ar':'العربية',
+'cs':'Čeština',
 'de':'Deutsch',
 'es':'Español',
 'en':'English',
-'it':'Italiano',
+'fi':'Suomi',
 'fr':'Français',
-'nl':'Nederlands',
-'ru':'Русский',
+'gr':'ελληνικά',
+'he':'עברית',
+'it':'Italiano',
 'pl':'Polski',
 'pt':'Português',
-'vi':'Tiếng Việt',
+'ro':'Român',
+'ru':'Русский',
+'tr':'Türk',
 'zh':'中文',
 }
 
