@@ -35,3 +35,8 @@ Now, run Firefox Developer Edition and open WebIDE (Shift+F8).  Click *Projects*
 and *Open Packaged App...* and find the cloned repository of `cordova-app`.  You
 should now have the application opened in WebIDE and you can run it into a
 Firefox OS simulator or onto your FirefoxOS phone.
+
+# Development notes
+
+Instructions for Android and the version of the app that uses the Moodstocks scanner plugin (iOS and Android only)
+http://en.wiki.openfoodfacts.org/Mobile_App_Development_Notes
