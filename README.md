@@ -36,6 +36,19 @@ and *Open Packaged App...* and find the cloned repository of `cordova-app`.  You
 should now have the application opened in WebIDE and you can run it into a
 Firefox OS simulator or onto your FirefoxOS phone.
 
+## Barcode scanner
+
+You may also have to install [Apache Cordova](https://cordova.apache.org/) plugin for barcode scanning.
+
+```
+cordova plugin add com.phonegap.plugins.barcodescanner
+```
+
+However, this plugin is not compatible with Firefox OS (see [sources on
+Github](https://github.com/wildabeast/BarcodeScanner)).  It seems that there is
+no barcode scanner plugin for Cordova (see
+[here](http://plugreg.com/search?q=barcode#platform=firefoxos)).
+
 # Development notes
 
 Instructions for Android and the version of the app that uses the Moodstocks scanner plugin (iOS and Android only)
