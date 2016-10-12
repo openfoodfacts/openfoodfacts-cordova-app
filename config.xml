@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.openfoodfacts.scanner" android-versionCode="19" version="2.4.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="org.openfoodfacts.scanner" android-versionCode="250" version="2.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>OpenFoodFacts</name>
     <description>
        Scan the barcode of food products, decrypt labels and contribute to the Open Food Facts project.
@@ -16,5 +16,6 @@
           <icon src="www/res/icons/android/drawable-mdpi/icon-48.png" density="mdpi" />
           <icon src="www/res/icons/android/drawable-hdpi/icon-72.png" density="hdpi" />
           <icon src="www/res/icons/android/drawable-xhdpi/icon-96.png" density="xhdpi" />
+	      <hook type="before_compile" src="overwrite_beep.js" />
     </platform>
 </widget>
