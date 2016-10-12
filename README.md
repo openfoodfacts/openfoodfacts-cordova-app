@@ -76,3 +76,7 @@ Data about food is of public interest and has to be open. The complete database 
 ## Bugs and feature requests
 
 Have a bug or a feature request? Please search for existing and closed issues. If your problem or idea is not addressed yet, please open a new issue.
+
+## Waffle Throughput Graph
+
+[![Throughput Graph](https://graphs.waffle.io/openfoodfacts/cordova-app/throughput.svg)](https://waffle.io/openfoodfacts/cordova-app/metrics/throughput)
