@@ -29,7 +29,109 @@ var code;
 var scanning = false;
 
 
+
+// This state represents the state of our application and will be saved and
+// restored by onResume() and onPause()
+var appState = {
+	code : 0,
+    takingPicture: true,
+    imageUri: ""
+};
+
+var APP_STORAGE_KEY = "OpenFoodFactsAppState";
+
+var app = {
+    initialize: function() {
+        this.bindEvents();
+    },
+    bindEvents: function() {
+        // Here we register our callbacks for the lifecycle events we care about
+        document.addEventListener('deviceready', this.onDeviceReady, false);
+        document.addEventListener('pause', this.onPause, false);
+        document.addEventListener('resume', this.onResume, false);
+    },
+    onDeviceReady: function() {
+        document.getElementById("take-picture-button").addEventListener("click", function() {
+            // Because the camera plugin method launches an external Activity,
+            // there is a chance that our application will be killed before the
+            // success or failure callbacks are called. See onPause() and
+            // onResume() where we save and restore our state to handle this case
+            appState.takingPicture = true;
+
+            navigator.camera.getPicture(cameraSuccessCallback, cameraFailureCallback,
+                {
+                    sourceType: Camera.PictureSourceType.CAMERA,
+                    destinationType: Camera.DestinationType.FILE_URI,
+                    targetWidth: 250,
+                    targetHeight: 250
+                }
+            );
+        });
+    },
+    onPause: function() {
+        // Here, we check to see if we are in the middle of taking a picture. If
+        // so, we want to save our state so that we can properly retrieve the
+        // plugin result in onResume(). We also save if we have already fetched
+        // an image URI
+        if(appState.takingPicture || appState.imageUri) {
+            window.localStorage.setItem(APP_STORAGE_KEY, JSON.stringify(appState));
+        }
+    },
+    onResume: function(event) {
+        // Here we check for stored state and restore it if necessary. In your
+        // application, it's up to you to keep track of where any pending plugin
+        // results are coming from (i.e. what part of your code made the call)
+        // and what arguments you provided to the plugin if relevant
+        var storedState = window.localStorage.getItem(APP_STORAGE_KEY);
+
+        if(storedState) {
+            appState = JSON.parse(storedState);
+        }
+
+        // Check to see if we need to restore an image we took
+        if(!appState.takingPicture && appState.imageUri) {
+            document.getElementById("get-picture-result").src = appState.imageUri;
+        }
+        // Now we can check if there is a plugin result in the event object.
+        // This requires cordova-android 5.1.0+
+        else if(appState.takingPicture && event.pendingResult) {
+            // Figure out whether or not the plugin call was successful and call
+            // the relevant callback. For the camera plugin, "OK" means a
+            // successful result and all other statuses mean error
+            if(event.pendingResult.pluginStatus === "OK") {
+                // The camera plugin places the same result in the resume object
+                // as it passes to the success callback passed to getPicture(),
+                // thus we can pass it to the same callback. Other plugins may
+                // return something else. Consult the documentation for
+                // whatever plugin you are using to learn how to interpret the
+                // result field
+                cameraSuccessCallback(event.pendingResult.result);
+            } else {
+                cameraFailureCallback(event.pendingResult.result);
+            }
+        }
+    }
+}
+
+// Here are the callbacks we pass to getPicture()
+function cameraSuccessCallback(imageUri) {
+    appState.takingPicture = false;
+    appState.imageUri = imageUri;
+    document.getElementById("get-picture-result").src = imageUri;
+}
+
+function cameraFailureCallback(error) {
+    appState.takingPicture = false;
+    console.log(error);
+}
+
+//app.initialize();
+
+
 console.log("start");
+
+
+
 
 
 
@@ -43,45 +145,6 @@ var uploads_in_progress = 0;
             	console.log("onBodyLoad()");
             	
                 scanButton = document.getElementById("scanButton");
-                openStatusLabel = document.getElementById("openStatus");
-                syncStatusLabel = document.getElementById("syncStatus");
-
-                menuContainer = document.getElementById("menuContainer");
-                overlayContainer = document.getElementById("overlayContainer");
-            }
-
-            // Sync scanner callbacks
-            function syncInProgress(progress) {
-                syncStatusLabel.innerHTML = "Synchronisation..." + progress + "%";
-                syncStatusLabel.style.backgroundColor = "#349DF4";
-                console.log("sync progress: " + progress);
-            }
-
-            function syncFinished() {
-                syncStatusLabel.innerHTML = "";
-                syncStatusLabel.style.backgroundColor = "#80AC3B";
-				if (speech == 'on') {                
-                	window.plugins.tts.speak($.i18n("msg_tts_database_sync_finished"));
-                }
-            }
-
-            function syncFailure(message) {
-                syncStatusLabel.innerHTML = JSON.stringify(message);
-                syncStatusLabel.style.backgroundColor = "red";
-            }
-
-            // Open scanner callbacks
-            function openSuccess(result) {
-                openStatusLabel.innerHTML = "";
-               	if (speech == 'on') {               
-                	//window.plugins.tts.speak($.i18n("msg_tts_database_sync_in_progress"));
-                }
-               // MoodstocksPlugin.sync(null, syncInProgress, syncFinished, syncFailure);
-            }
-
-            function openFailure(result) {
-                openStatusLabel.innerHTML = result;
-                openStatusLabel.style.backgroundColor = "red";
             }
 
 
@@ -118,7 +181,8 @@ var uploads_in_progress = 0;
                 if (code != moodstocksCurrentCode) {
                                 
                 
-                if (((format == 'EAN13') || (format == 'EAN8')) && (code != '')) {
+                // if (((format == 'EAN13') || (format == 'EAN_13') || (format == 'EAN8') || (format == 'EAN_8')) && (code != '')) {
+                if ((code != '')) {
                 
                 	
                 	moodstocksCurrentCode = code;
@@ -261,7 +325,29 @@ for (var i = 0; i < length; i++) {
             function clickScan() {
             	console.log("clickScan()");
             	
-            	$.mobile.changePage( "#page_moodstocks_scan", { transition: "none" }); 
+				   cordova.plugins.barcodeScanner.scan(
+      function (result) {
+          //alert("We got a barcode\n" +
+          //      "Result: " + result.text + "\n" +
+          //      "Format: " + result.format + "\n" +
+          //      "Cancelled: " + result.cancelled);
+				
+				scanSuccess(result.format, result.text);
+      },
+      function (error) {
+          //alert("Scanning failed: " + error);
+		  console.log("Scanning failed: " + error);
+      },
+      {
+          "preferFrontCamera" : true, // iOS and Android
+          "showFlipCameraButton" : true, // iOS and Android
+          "prompt" : "Place a barcode inside the scan area", // supported on Android only
+          "formats" : "UPC_E,UPC_A,EAN_8,EAN_13,CODE_128,CODE_39,CODE_93,CODABAR,ITF,RSS14,RSS_EXPANDED", // default: all but PDF_417 and RSS_EXPANDED
+          "orientation" : "portrait" // Android only (portrait|landscape), default unset so it rotates with the device
+      }
+   );
+
+				
             	if (speech == 'on') {            	
             		window.plugins.tts.speak($.i18n("msg_tts_scan_product"));
             	}          	
@@ -328,7 +414,8 @@ $.ajaxSetup({
 
                 // open the scanner setting your apikey & apisecrect
                 //MoodstocksPlugin.open(openSuccess, openFailure);
-                //scanButton.addEventListener("click", clickScan, false);
+                
+		scanButton.addEventListener("click", clickScan, false);
 				
   $('#page_home').live('pagebeforeshow',function(event) {
           console.log('#page_home pagebeforeshow 2');
@@ -416,9 +503,6 @@ $.ajaxSetup({
         console.log("Error = " + result);
     }
 
-
-    
-console.log("bah 1");
 
 
 function update_language() {
