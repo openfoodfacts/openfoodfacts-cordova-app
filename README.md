@@ -54,7 +54,7 @@ no barcode scanner plugin for Cordova (see
 # Development notes
 
 Instructions for Android and the version of the app that uses the Moodstocks scanner plugin (iOS and Android only)
-http://en.wiki.openfoodfacts.org/Mobile_App_Development_Notes
+https://en.wiki.openfoodfacts.org/Mobile_App_Development_Notes
 
 
 ## What is Open Food Facts?
@@ -71,7 +71,7 @@ Open Food Facts is a non-profit association of volunteers.
 ### For everyone
 
 Data about food is of public interest and has to be open. The complete database is published as open data and can be reused by anyone and for any use. Check-out the cool reuses or make your own!
-- <http://world.openfoodfacts.org>
+- <https://world.openfoodfacts.org>
 
 ## Bugs and feature requests
 
