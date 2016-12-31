@@ -11,7 +11,7 @@
 	"msg_please_login" : "Iniciar sesión para engadir produtos ou editar as páxinas dos produtos.",
 	"msg_userid" : "Nome de usuario ou enderezo electrónico:",
 	"msg_password" : "Contrasinal:",
-	"msg_register" : "Aínda non ten unha conta? <a href=\"http://world-gl.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Cree unha</a>",
+	"msg_register" : "Aínda non ten unha conta? <a href=\"https://world-gl.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Cree unha</a>",
 	"msg_language" : "Idioma preferido:",
 	"msg_language_info" : "A busca devolverá primeiramente produtos no idioma seleccionado e os produtos que engada enviaranse á versión correspondente de Open Food Facts.",
 	"msg_parameters" : "Parámetros",

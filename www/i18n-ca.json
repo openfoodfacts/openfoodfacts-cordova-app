@@ -11,7 +11,7 @@
 	"msg_please_login" : "Obre sessió per afegir productes o editar les pàgines dels productes.",
 	"msg_userid" : "Nom d'usuari o direcció electrònica:",
 	"msg_password" : "Contrasenya:",
-	"msg_register" : "Sense compte encara? <a href=\"http://world-ca.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Crea un compte</a>",
+	"msg_register" : "Sense compte encara? <a href=\"https://world-ca.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Crea un compte</a>",
 	"msg_language" : "Llengua preferida:",
 	"msg_language_info" : "La cerca tornarà preferentment productes a la llegua seleccionada, i els productes que haja afegit seran afegits a la corresponent versió de Open Food Facts.",
 	"msg_parameters" : "Paràmetres",

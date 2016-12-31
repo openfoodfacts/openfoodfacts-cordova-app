@@ -11,7 +11,7 @@
 	"msg_please_login" : "Συνδεθείτε για να προσθέσετε προϊόντα ή να επεξεργαστείτε σελίδες προϊόντων.",
 	"msg_userid" : "Όνομα χρήστη ή διεύθυνση email:",
 	"msg_password" : "Κωδικός:",
-	"msg_register" : "Δεν έχετε λογαριασμό; <a href=\"http://world-el.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Δημιουργία λογαριασμού</a>",
+	"msg_register" : "Δεν έχετε λογαριασμό; <a href=\"https://world-el.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Δημιουργία λογαριασμού</a>",
 	"msg_language" : "Προτιμώμενη γλώσσα:",
 	"msg_language_info" : "Η αναζήτηση θα επιστρέφει με σειρά προτεραιότητας τα προϊόντα της επιλεγμένης γλώσσας, ενώ τα προϊόντα που προσθέτετε θα συμπεριληφθούν στην αντίστοιχη έκδοση του Open Food Facts.",
 	"msg_parameters" : "Παράμετροι",

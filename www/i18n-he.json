@@ -11,7 +11,7 @@
 	"msg_please_login" : "יש להיכנס כדי להוסיף מוצרים או לערוך עמודי מוצרים.",
 	"msg_userid" : "שם משתמש או כתובת דוא״ל:",
 	"msg_password" : "ססמה:",
-	"msg_register" : "אין לך חשבון עדיין? <a href=\"http://world-he.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">יצירת חשבון</a>",
+	"msg_register" : "אין לך חשבון עדיין? <a href=\"https://world-he.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">יצירת חשבון</a>",
 	"msg_language" : "שפה מועדפת:",
 	"msg_language_info" : "חיפוש יחזיר את המוצרים בעדיפות גבוהה בשפה הנבחרה, ומוצרים שיתווספו על ידיך יתווספו אל הגרסה התואמת של Open Food Facts.",
 	"msg_parameters" : "משתנים",

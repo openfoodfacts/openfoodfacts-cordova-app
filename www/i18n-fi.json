@@ -11,7 +11,7 @@
 	"msg_please_login" : "Kirjaudu sisään lisätäksesi tuotteita tai muokataksesi tuotesivuja.",
 	"msg_userid" : "Käyttäjätunnus tai sähköpostiosoite:",
 	"msg_password" : "Salasana:",
-	"msg_register" : "Vailla tiliä? <a href=\"http://world-fi.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Luo uusi tili</a>",
+	"msg_register" : "Vailla tiliä? <a href=\"https://world-fi.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Luo uusi tili</a>",
 	"msg_language" : "Ensisijainen kieli:",
 	"msg_language_info" : "Haku palauttaa tuotteet tärkeysjärjestyksessä valitulla kielellä. Lisäämäsi tuotteet lisätään vastaavalla kielellä Open Food Factsiin.",
 	"msg_parameters" : "Parametrit",

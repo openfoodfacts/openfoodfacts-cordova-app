@@ -4,12 +4,12 @@
     <description>
        Scan the barcode of food products, decrypt labels and contribute to the Open Food Facts project.
     </description>
-    <author email="contact@openfoodfacts.org" href="http://openfoodfacts.org">
+    <author email="contact@openfoodfacts.org" href="https://openfoodfacts.org">
         Stéphane Gigandet
     </author>
     <content src="index.html" />
     <access origin="*" />
-	
+
 	<icon src="www/res/icons/icon-512.png" />
 	<platform name="android">
           <icon src="www/res/icons/android/drawable-ldpi/icon-36.png" density="ldpi" />
