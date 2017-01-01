@@ -11,7 +11,7 @@
 	"msg_please_login" : "Пријави се да додаш или измениш странице са артиклима.",
 	"msg_userid" : "Korisničko ime ili e-mail adresa:",
 	"msg_password" : "Lozinka:",
-	"msg_register" : "Idalje nemate korisnički račun? <a href=\"http://world-sr@latin.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Registrujte korisnicki račun</a>",
+	"msg_register" : "Idalje nemate korisnički račun? <a href=\"https://world-sr@latin.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Registrujte korisnicki račun</a>",
 	"msg_language" : "Izaberite jezik:",
 	"msg_language_info" : "Pretraživanje će se vratiti u prioritetnim proizvodima na odabranom jeziku, a proizvodi koje dodate će biti dodati u odgovarajućoj verziji Open Food Facts.",
 	"msg_parameters" : "Parametri",

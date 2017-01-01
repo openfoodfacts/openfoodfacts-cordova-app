@@ -13,7 +13,7 @@
 	"msg_please_login" : "Anmelden um Produkte hinzuzufügen oder um Produktseiten zu editieren.",
 	"msg_userid" : "Username oder E-mail Adresse:",
 	"msg_password" : "Passwort:",
-	"msg_register" : "Sie haben noch kein Konto bei uns? <a href=\"http://de.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Registrieren Sie sich jetzt:</a>",
+	"msg_register" : "Sie haben noch kein Konto bei uns? <a href=\"https://de.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Registrieren Sie sich jetzt:</a>",
 	"msg_language" : "Bevorzugte Sprache:",
 	"msg_language_info" : "Die Suche wird vorrangig die Produkte in der ausgewählten Sprache zeigen. Die Produkte, die Sie hinzufügen, werden in der entsprechenden Version von Open Food Facts hinzugefügt.",
 	"msg_parameters" : "Parameter",

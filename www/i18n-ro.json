@@ -11,7 +11,7 @@
 	"msg_please_login" : "Autentificarea este necesară pentru a adăuga sau edita paginile produselor.",
 	"msg_userid" : "Nume de utilizator sau adresa de e-mail:",
 	"msg_password" : "Parolă:",
-	"msg_register" : "Nu ai încă un cont? <a href=\"http://world-ro.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Crează un cont nou</a>",
+	"msg_register" : "Nu ai încă un cont? <a href=\"https://world-ro.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Crează un cont nou</a>",
 	"msg_language" : "Limba preferată:",
 	"msg_language_info" : "Căutarea va întoarce produse prioritare în limba selectată, iar produsele pe care le adăugați vor fi adăugate la versiunea corespunzătoare cu Open Food Facts.",
 	"msg_parameters" : "Parametrii",

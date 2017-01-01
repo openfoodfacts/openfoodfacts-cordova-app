@@ -11,7 +11,7 @@
 	"msg_please_login" : "Daftar untuk menambah produk atau menyunting halaman produk.",
 	"msg_userid" : "Nama pengguna atau alamat e-mel:",
 	"msg_password" : "Kata laluan:",
-	"msg_register" : "Belum ada akaun lagi? <a href=\"http://world-ms.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Cipta akaun baharu</a>",
+	"msg_register" : "Belum ada akaun lagi? <a href=\"https://world-ms.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Cipta akaun baharu</a>",
 	"msg_language" : "Bahasa dikehendaki:",
 	"msg_language_info" : "Menggelintar akan paparkan produk yang diutamakan dalam bahasa pilihan, dan produk yang anda tambah akan dimasukkan dalam versi Open Food Fact yang berkenaan.",
 	"msg_parameters" : "Parameter",

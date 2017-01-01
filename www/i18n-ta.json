@@ -11,7 +11,7 @@
 	"msg_please_login" : "பொருள்களை சேர்க்கவோ, அதன் தகவல்களை மாற்றவோ உள்ளே நுழையவும்",
 	"msg_userid" : "பயனாளர் பெயர் (அ) ஈ-மெயில்",
 	"msg_password" : "கடவுச்சொல்(Password):",
-	"msg_register" : "கணக்கு இல்லையா? <a href=\"http://world-ta.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">கணக்கை உருவாக்குங்கள்.</a>",
+	"msg_register" : "கணக்கு இல்லையா? <a href=\"https://world-ta.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">கணக்கை உருவாக்குங்கள்.</a>",
 	"msg_language" : "தேர்வு மொழி:",
 	"msg_language_info" : "தேடலும், பொருள் சேர்தலும் தாங்கள் தேர்வு செய்த மொழிக்கு ஏற்ப ஓபன் புட் பாக்ட்ஸ் களஞ்சியத்தில் சேர்க்கப்படும்.",
 	"msg_parameters" : "வரைகூறுகள்",

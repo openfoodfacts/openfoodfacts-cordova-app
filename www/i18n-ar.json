@@ -13,7 +13,7 @@
 	"msg_please_login" : "تسجيل الدخول لإضافة منتجات أو تحرير صفحات المنتج.",
 	"msg_userid" : "اسم المستخدم أو عنوان البريد الإلكتروني",
 	"msg_password" : "كلمة المرور",
-	"msg_register" : "ليس لديك حساب حتى الآن<a href=\"http://ar.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">إنشاء حساب</a>",
+	"msg_register" : "ليس لديك حساب حتى الآن<a href=\"https://ar.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">إنشاء حساب</a>",
 	"msg_language" : "اللغة المفضلة:",
 	"msg_language_info" : "سيكون البحث العودة في المنتجات ذات الأولوية في اللغة المحددة، وسيتم إضافة منتجات إضافة إلى إصدار المماثلة من حقائق مفتوحة عن الطعام.",
 	"msg_parameters" : "المعلمات",

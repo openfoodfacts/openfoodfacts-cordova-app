@@ -8,7 +8,7 @@
     "description": "Scan the barcode of food products, decrypt labels and contribute to the Open Food Facts project.",
     "developer": {
         "name": "Stéphane Gigandet",
-        "url": "http://openfoodfacts.org"
+        "url": "https://openfoodfacts.org"
     },
     "icons": {
         "60": "/res/icons/firefoxos/icon-60.png",

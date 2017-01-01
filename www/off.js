@@ -665,7 +665,7 @@ function uploadFile(path) {
 	uploads_in_progress++;
 
     ft.upload(path,
-        "http://world-" + lc + ".openfoodfacts.org/cgi/product_image_upload.pl",
+        "https://world-" + lc + ".openfoodfacts.org/cgi/product_image_upload.pl",
         function(result) {
         	uploads_in_progress--;
             console.log('Upload success: ' + result.responseCode);
@@ -988,11 +988,11 @@ function showProduct( urlObj, options )
 		$.mobile.changePage( $page, { transition: "none" } );
 		
 		// Load and display the product (from memory or from the server)
-		// http://fr.openfoodfacts.org/api/v0/product/2165244002857.json
+		// https://fr.openfoodfacts.org/api/v0/product/2165244002857.json
 		
-		console.log("getting " + 'http://world' + lc + '.openfoodfacts.org/api/v0.1/product/' + code + '.jqm.json');
+		console.log("getting " + 'https://world' + lc + '.openfoodfacts.org/api/v0.1/product/' + code + '.jqm.json');
 		
-		$.get('http://world-' + lc + '.openfoodfacts.org/api/v0.1/product/' + code + '.jqm.json',
+		$.get('https://world-' + lc + '.openfoodfacts.org/api/v0.1/product/' + code + '.jqm.json',
 				 function(data) {
 				
 			// alert("data.status: " + data.status + " data.jqm: " + data.jqm);
@@ -1024,7 +1024,7 @@ function showProduct( urlObj, options )
 					params.password = window.localStorage.getItem("password");
 				}
 				
-			    var url = "http://world-" + lc + ".openfoodfacts.org/cgi/product_jqm.pl" ; // the script where you handle the form input.
+			    var url = "https://world-" + lc + ".openfoodfacts.org/cgi/product_jqm.pl" ; // the script where you handle the form input.
 			    
 			    $("#save").button("disable").button("refresh");
 			    $("#saving").show();

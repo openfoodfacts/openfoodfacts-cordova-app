@@ -11,7 +11,7 @@
 	"msg_please_login" : "Přihlásit se pro přidání produktů nebo změnu produktových stránek.",
 	"msg_userid" : "Uživatelské jméno nebo e-mailová adresa:",
 	"msg_password" : "Heslo:",
-	"msg_register" : "Nemáte účet? <a href=\"http://world-cs.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Vytvořit účet</a>",
+	"msg_register" : "Nemáte účet? <a href=\"https://world-cs.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Vytvořit účet</a>",
 	"msg_language" : "Upřednostňovaný jazyk:",
 	"msg_language_info" : "Vyhledávání umožní procházet produkty ve vybraném jazyce, produkty, které přidáte se stanou součástí Otevřené databáze informací o jídle.",
 	"msg_parameters" : "Parametry",

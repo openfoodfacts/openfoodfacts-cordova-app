@@ -11,7 +11,7 @@
 	"msg_please_login" : "Mehsul ilave etmek için ve ya mehsullar sahıdalarını düzenlemek içun giriş yap.",
 	"msg_userid" : "Kullanıcı adı ve ya,e-posta:",
 	"msg_password" : "Şifre:",
-	"msg_register" : "Kullanıcı adın yok mu? <a href=\"http://world-tr.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Kullanıcı adı yarat</a>",
+	"msg_register" : "Kullanıcı adın yok mu? <a href=\"https://world-tr.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Kullanıcı adı yarat</a>",
 	"msg_language" : "Tercih edilen dil:",
 	"msg_language_info" : "Arama neticesi seçilmiş dile ustunluk verilerek gösterilecek, ve eklediyiniz mehsullar var Open Food Facts-ın var olan versiyonuna eklenecektir.",
 	"msg_parameters" : "Seçenekler",

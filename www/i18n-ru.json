@@ -11,7 +11,7 @@
 	"msg_please_login" : "Войдите, чтобы добавлять или редактировать информацию о продуктах.",
 	"msg_userid" : "Имя пользователя или e-mail:",
 	"msg_password" : "Пароль:",
-	"msg_register" : "Нет учетной записи? <a href=\"http://ru.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Создать учетную запись</a>",
+	"msg_register" : "Нет учетной записи? <a href=\"https://ru.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Создать учетную запись</a>",
 	"msg_language" : "Предпочитаемый язык:",
 	"msg_language_info" : "Поиск продуктов происходит для выбранного языка, новые продукты будут добавляться к соответствующей версии Open Food Facts.",
 	"msg_parameters" : "Параметры",

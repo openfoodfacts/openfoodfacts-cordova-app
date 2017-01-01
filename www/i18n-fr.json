@@ -14,7 +14,7 @@
 	"msg_please_login" : "Connectez-vous pour ajouter des produits ou modifier leurs fiches.",
 	"msg_userid" : "Nom d'utilisateur ou adresse e-mail :",
 	"msg_password" : "Mot de passe :",
-	"msg_register" : "Pas encore inscrit(e) ? <a href=\"http://fr.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Créez votre compte</a>",
+	"msg_register" : "Pas encore inscrit(e) ? <a href=\"https://fr.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Créez votre compte</a>",
 	"msg_language" : "Langue préférée :",
 	"msg_parameters" : "Paramètres",
 	"msg_hello" : "Bonjour $1 !",

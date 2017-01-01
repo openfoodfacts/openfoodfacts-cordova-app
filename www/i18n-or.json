@@ -11,7 +11,7 @@
 	"msg_please_login" : "ଉତ୍ପାଦ ଯୋଡିବା ତଥା ଉତ୍ପାଦ ସମ୍ପାଦନା କରିବା ପାଇଁ ଲଗ-ଇନ୍ କରନ୍ତୁ",
 	"msg_userid" : "କର୍ତାଙ୍କ ନାମ",
 	"msg_password" : "ପ୍ରବେଶ ସଂକେତ:",
-	"msg_register" : "ଖାତା ଖୋଲି ନାହାନ୍ତି କି ? <a href=\"http://world-or.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">ନୂଆ ଖାତାଟିଏ ଖୋଲନ୍ତୁ</a>",
+	"msg_register" : "ଖାତା ଖୋଲି ନାହାନ୍ତି କି ? <a href=\"https://world-or.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">ନୂଆ ଖାତାଟିଏ ଖୋଲନ୍ତୁ</a>",
 	"msg_language" : "ମନୋନୀତ ଭାଷା",
 	"msg_language_info" : "ସନ୍ଧାନର ଫଳାଫଳ, ପ୍ରାଥମିକତା ହିସାବରେ ମନୋନୀତ ଭାଷାରେ ପ୍ରକାଶିତ ହେବ ଏବଂ ଆପଣ ଯେଉଁ ଉତ୍ପାଦ ଯୋଡିବେ, ତାହା ମୁକ୍ତ ଖାଦ୍ୟ ତଥ୍ୟର ପ୍ରଚଳିତ ସଂସ୍କରଣରେ ସଂଯୋଗ ହେବ",
 	"msg_parameters" : "ପ୍ରାଚଳ ବା ପରାମିଟର",
