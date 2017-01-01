@@ -1,0 +1,174 @@
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-ta.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 11:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
+
+#: .msg_search_in_progress
+msgid "Search in progress"
+msgstr "தேடல் நடைபெறுகிறது"
+
+#: .msg_scan
+msgid "Scan"
+msgstr "ஸ்கேன்"
+
+#: .msg_barcode
+msgid "Barcode: $1"
+msgstr "குறியீடு(பார்கோட்): $1"
+
+#: .msg_password
+msgid "Password:"
+msgstr "கடவுச்சொல்(Password):"
+
+#: .msg_uploaded
+msgid "Image received, thank you!"
+msgstr "படம் கிடைத்தது. தங்களுக்கு நன்றி!"
+
+#: .msg_tts_database_sync_finished
+msgid "The database is up to date."
+msgstr ""
+
+#: .msg_back
+msgid "Back"
+msgstr "பின்செல்"
+
+#: .msg_tts_database_sync_in_progress
+msgid "Database update in progress."
+msgstr ""
+
+#: .%241+has+%242+%7B%7Bplural%3A%242%7Ckitten%7Ckittens%7D%7D.+%7B%7Bgender%3A%243%7CHe%7CShe%7D%7D+loves+to+play+with+%7B%7Bplural%3A%242%7Cit%7Cthem%7D%7D.
+msgid ""
+"$1 has $2 {{plural:$2|kitten|kittens}}. {{gender:$3|He|She}} loves to play "
+"with {{plural:$2|it|them}}."
+msgstr ""
+
+#: .msg_language
+msgid "Preferred language:"
+msgstr "தேர்வு மொழி:"
+
+#: .msg_logout
+msgid "Sign-out"
+msgstr "வெளியேறு"
+
+#: .msg_search
+msgid "Search a product by name or brand:"
+msgstr "தேடும் பொருளின் பெயர்/வணிகப்பெயர்:"
+
+#: .msg_loading_product
+msgid "Loading product from the Open Food Facts database"
+msgstr "ஓபன் புட் பாக்ட்ஸ் களஞ்சியத்திலிருந்து பொருளின் விவரம் கொண்டுவரபடுகிறது"
+
+#: .msg_hello
+msgid "Hello $1!"
+msgstr "$1-க்கு வணக்கம்!"
+
+#: .msg_parameters
+msgid "Parameters"
+msgstr "வரைகூறுகள்"
+
+#: .msg_userid
+msgid "Username or e-mail address:"
+msgstr "பயனாளர் பெயர் (அ) ஈ-மெயில்"
+
+#: .msg_more_info
+msgid "More info"
+msgstr ""
+
+#: .msg_speech
+msgid "Text to speech:"
+msgstr ""
+
+#: .msg_tts_scan_product
+msgid "Scan a product in front of the phone"
+msgstr ""
+
+#: .msg_uploading
+msgid "Sending in progress"
+msgstr "தகவல் அனுப்பப்படுகிறது"
+
+#: .msg_upload_problem
+msgid "The image could not be sent"
+msgstr "படத்தை அனுப்ப இயலவில்லை"
+
+#: .msg_connecting_failed
+msgid "Connecting failed: no network?"
+msgstr "இணைக்க முடியவில்லை. இணைப்பு இல்லையா?"
+
+#: .msg_upload_retry
+msgid "Retry"
+msgstr "மீண்டும் முயல்க"
+
+#: .msg_close
+msgid "Close"
+msgstr "மூடுக‌"
+
+#: .msg_login
+msgid "Sign-in"
+msgstr "நுழை"
+
+#: .msg_connecting
+msgid "Connecting"
+msgstr "இணைக்கப்படுகிறது"
+
+#: .msg_product_title
+msgid "Product $1"
+msgstr "பொருள் $1"
+
+#: .msg_please_login
+msgid "Sign-in to add products or edit product pages."
+msgstr "பொருள்களை சேர்க்கவோ, அதன் தகவல்களை மாற்றவோ உள்ளே நுழையவும்"
+
+#: .msg_search_button
+msgctxt ".msg_search_button"
+msgid "Search"
+msgstr "தேடுக"
+
+#: .msg_register
+msgid ""
+"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"_blank\">Create an account</a>"
+msgstr ""
+"கணக்கு இல்லையா? <a href=\"http://world-ta.openfoodfacts.org/cgi/user.pl\" "
+"target=\"_blank\">கணக்கை உருவாக்குங்கள்.</a>"
+
+#: .msg_add_product_without_barcode
+msgid "Add a product without barcode"
+msgstr "குறியீடு(பார்கோட்) இல்லாமல் பொருளை சேர்க்க"
+
+#: .msg_scan_product_or_barcode
+msgid "Scan the barcode to find or add a product."
+msgstr ""
+
+#: .msg_scan_product
+msgid "Scan the barcode to find or add a product:"
+msgstr "தேடும்/சேர்க்கும் பொருளின் பார்கோட்-ஐ ஸ்கேன் செய்க"
+
+#: .msg_tts_hello
+msgid "Hello"
+msgstr ""
+
+#: .msg_description
+msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr ""
+"<img src=openfoodfacts-logo-en.png alt=ஓபன் புட் பாக்ட்ஸ் /><br /><p>ஓபன் "
+"புட் பாக்ட்ஸ் (Open Food Facts) உலகம் முழுதும் கிடைக்க கூடிய உணவு மற்றும் "
+"உணவு பொருட்களின் தகவல் குறிப்புகளை மக்களிடதிலிருந்து சேகரித்து இலவசமாக "
+"வழங்கும் ஒரு திறந்த மனப்பான்மை தகவல் களஞ்சியமாகும்.</p>"
+
+#: .msg_search_title
+msgctxt ".msg_search_title"
+msgid "Search"
+msgstr ""
+
+#: .msg_connecting_bad_password
+msgid "Bad username or password"
+msgstr "பயன்பெயரோ (அ) கடவு சொல்லோ தவறாக உள்ளது"

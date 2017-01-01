@@ -1,0 +1,173 @@
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-ca.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 11:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
+
+#: .msg_search_in_progress
+msgid "Search in progress"
+msgstr "Cerca en progrés"
+
+#: .msg_scan
+msgid "Scan"
+msgstr "Escàner"
+
+#: .msg_barcode
+msgid "Barcode: $1"
+msgstr "Codi de barres: $1"
+
+#: .msg_password
+msgid "Password:"
+msgstr "Contrasenya:"
+
+#: .msg_uploaded
+msgid "Image received, thank you!"
+msgstr "Imatge rebuda, gràcies!"
+
+#: .msg_tts_database_sync_finished
+msgid "The database is up to date."
+msgstr ""
+
+#: .msg_back
+msgid "Back"
+msgstr "Torna"
+
+#: .msg_tts_database_sync_in_progress
+msgid "Database update in progress."
+msgstr ""
+
+#: .%241+has+%242+%7B%7Bplural%3A%242%7Ckitten%7Ckittens%7D%7D.+%7B%7Bgender%3A%243%7CHe%7CShe%7D%7D+loves+to+play+with+%7B%7Bplural%3A%242%7Cit%7Cthem%7D%7D.
+msgid ""
+"$1 has $2 {{plural:$2|kitten|kittens}}. {{gender:$3|He|She}} loves to play "
+"with {{plural:$2|it|them}}."
+msgstr ""
+
+#: .msg_language
+msgid "Preferred language:"
+msgstr "Llengua preferida:"
+
+#: .msg_logout
+msgid "Sign-out"
+msgstr "Tanca la sessió"
+
+#: .msg_search
+msgid "Search a product by name or brand:"
+msgstr "Cerca un producte pel nom o marca:"
+
+#: .msg_loading_product
+msgid "Loading product from the Open Food Facts database"
+msgstr "Carregant el producte des de la base de dades de Open Food Facts"
+
+#: .msg_hello
+msgid "Hello $1!"
+msgstr "Hola, $1!"
+
+#: .msg_parameters
+msgid "Parameters"
+msgstr "Paràmetres"
+
+#: .msg_userid
+msgid "Username or e-mail address:"
+msgstr "Nom d'usuari o direcció electrònica:"
+
+#: .msg_more_info
+msgid "More info"
+msgstr ""
+
+#: .msg_speech
+msgid "Text to speech:"
+msgstr ""
+
+#: .msg_tts_scan_product
+msgid "Scan a product in front of the phone"
+msgstr ""
+
+#: .msg_uploading
+msgid "Sending in progress"
+msgstr "L'enviament està en progrés"
+
+#: .msg_upload_problem
+msgid "The image could not be sent"
+msgstr "No s'ha pogut enviar la imatge"
+
+#: .msg_connecting_failed
+msgid "Connecting failed: no network?"
+msgstr "La connexió ha fallat: sense xarxa?"
+
+#: .msg_upload_retry
+msgid "Retry"
+msgstr "Torna a provar"
+
+#: .msg_close
+msgid "Close"
+msgstr "Tanca"
+
+#: .msg_login
+msgid "Sign-in"
+msgstr "Obre sessió"
+
+#: .msg_connecting
+msgid "Connecting"
+msgstr "Connectant"
+
+#: .msg_product_title
+msgid "Product $1"
+msgstr "Producte $1"
+
+#: .msg_please_login
+msgid "Sign-in to add products or edit product pages."
+msgstr "Obre sessió per afegir productes o editar les pàgines dels productes."
+
+#: .msg_search_button
+msgctxt ".msg_search_button"
+msgid "Search"
+msgstr "Cerca"
+
+#: .msg_register
+msgid ""
+"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"_blank\">Create an account</a>"
+msgstr ""
+"Sense compte encara? <a href=\"http://world-ca.openfoodfacts.org/cgi/user."
+"pl\" target=\"_blank\">Crea un compte</a>"
+
+#: .msg_add_product_without_barcode
+msgid "Add a product without barcode"
+msgstr "Afegir un producte sense codi de barres"
+
+#: .msg_scan_product_or_barcode
+msgid "Scan the barcode to find or add a product."
+msgstr ""
+
+#: .msg_scan_product
+msgid "Scan the barcode to find or add a product:"
+msgstr "Escaneja el codi de barres per trobar o afegir un producte:"
+
+#: .msg_tts_hello
+msgid "Hello"
+msgstr ""
+
+#: .msg_description
+msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr ""
+"<img src=\"openfoodfacts-logo-ca.png\" alt=\"Open Food Facts\" /><br /><p>"
+"Open Food Facts reuneiz informació i dates de productes alimenticis de tot "
+"el món a una base de dades oberta.</p>"
+
+#: .msg_search_title
+msgctxt ".msg_search_title"
+msgid "Search"
+msgstr ""
+
+#: .msg_connecting_bad_password
+msgid "Bad username or password"
+msgstr "Nom d'usuari o contrasenya incorrectes"

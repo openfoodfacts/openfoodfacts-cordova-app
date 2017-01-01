@@ -1,0 +1,173 @@
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-bg.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 11:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
+
+#: .msg_search_in_progress
+msgid "Search in progress"
+msgstr "Търси се"
+
+#: .msg_scan
+msgid "Scan"
+msgstr "Сканирай"
+
+#: .msg_barcode
+msgid "Barcode: $1"
+msgstr "Баркод: $1"
+
+#: .msg_password
+msgid "Password:"
+msgstr "Парола:"
+
+#: .msg_uploaded
+msgid "Image received, thank you!"
+msgstr "Изображението е получено, благодарим ви!"
+
+#: .msg_tts_database_sync_finished
+msgid "The database is up to date."
+msgstr ""
+
+#: .msg_back
+msgid "Back"
+msgstr "Назад"
+
+#: .msg_tts_database_sync_in_progress
+msgid "Database update in progress."
+msgstr ""
+
+#: .%241+has+%242+%7B%7Bplural%3A%242%7Ckitten%7Ckittens%7D%7D.+%7B%7Bgender%3A%243%7CHe%7CShe%7D%7D+loves+to+play+with+%7B%7Bplural%3A%242%7Cit%7Cthem%7D%7D.
+msgid ""
+"$1 has $2 {{plural:$2|kitten|kittens}}. {{gender:$3|He|She}} loves to play "
+"with {{plural:$2|it|them}}."
+msgstr ""
+
+#: .msg_language
+msgid "Preferred language:"
+msgstr "Предпочитан език:"
+
+#: .msg_logout
+msgid "Sign-out"
+msgstr "Изход"
+
+#: .msg_search
+msgid "Search a product by name or brand:"
+msgstr "Търси продукт по име или марка:"
+
+#: .msg_loading_product
+msgid "Loading product from the Open Food Facts database"
+msgstr "Зареждане на продукт от базата данни на Open Food Facts"
+
+#: .msg_hello
+msgid "Hello $1!"
+msgstr "Здравей, $1!"
+
+#: .msg_parameters
+msgid "Parameters"
+msgstr "Параметри"
+
+#: .msg_userid
+msgid "Username or e-mail address:"
+msgstr "Потребителско име или имейл адрес:"
+
+#: .msg_more_info
+msgid "More info"
+msgstr ""
+
+#: .msg_speech
+msgid "Text to speech:"
+msgstr ""
+
+#: .msg_tts_scan_product
+msgid "Scan a product in front of the phone"
+msgstr ""
+
+#: .msg_uploading
+msgid "Sending in progress"
+msgstr "Изпраща се"
+
+#: .msg_upload_problem
+msgid "The image could not be sent"
+msgstr "Изображението не може да бъде изпратено"
+
+#: .msg_connecting_failed
+msgid "Connecting failed: no network?"
+msgstr "Свързването е неуспешно, проверете имате ли мрежа?"
+
+#: .msg_upload_retry
+msgid "Retry"
+msgstr "Повторен опит"
+
+#: .msg_close
+msgid "Close"
+msgstr "Затвори"
+
+#: .msg_login
+msgid "Sign-in"
+msgstr "Вход"
+
+#: .msg_connecting
+msgid "Connecting"
+msgstr "Свързване"
+
+#: .msg_product_title
+msgid "Product $1"
+msgstr "Продукт $1"
+
+#: .msg_please_login
+msgid "Sign-in to add products or edit product pages."
+msgstr "Влезте, за да добавяте или редактирате информацията за продуктите."
+
+#: .msg_search_button
+msgctxt ".msg_search_button"
+msgid "Search"
+msgstr "Търси"
+
+#: .msg_register
+msgid ""
+"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"_blank\">Create an account</a>"
+msgstr ""
+"Все още нямате профил? <a href=\"http://world-bg.openfoodfacts.org/cgi/user."
+"pl\" target=\"_blank\">Създаване на профил</a>"
+
+#: .msg_add_product_without_barcode
+msgid "Add a product without barcode"
+msgstr "Добави продукт без баркод"
+
+#: .msg_scan_product_or_barcode
+msgid "Scan the barcode to find or add a product."
+msgstr ""
+
+#: .msg_scan_product
+msgid "Scan the barcode to find or add a product:"
+msgstr "Сканиране на баркот за намиране или добавяне на продукт:"
+
+#: .msg_tts_hello
+msgid "Hello"
+msgstr ""
+
+#: .msg_description
+msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr ""
+"<img src=\"openfoodfacts-logo-bg.png\" alt=\"Open Food Facts\" /><br /><p>"
+"Open Food Facts предоставя информация и данни за хранителни продукти по "
+"целия свят от отворена и безплатна база от данни.</p>"
+
+#: .msg_search_title
+msgctxt ".msg_search_title"
+msgid "Search"
+msgstr ""
+
+#: .msg_connecting_bad_password
+msgid "Bad username or password"
+msgstr "Грешно потребителско име или парола"
