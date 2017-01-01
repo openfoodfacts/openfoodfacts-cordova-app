@@ -73,6 +73,11 @@ Open Food Facts is a non-profit association of volunteers.
 Data about food is of public interest and has to be open. The complete database is published as open data and can be reused by anyone and for any use. Check-out the cool reuses or make your own!
 - <https://world.openfoodfacts.org>
 
+### Translate Open Food Facts in your language
+
+You can help translate Open Food Facts and the app at (no technical knowledge required, takes a minute to signup): <br>
+https://translations.launchpad.net/openfoodfacts/openfoodfacts-ios/+translations
+
 ## Bugs and feature requests
 
 Have a bug or a feature request? Please search for existing and closed issues. If your problem or idea is not addressed yet, please open a new issue.
