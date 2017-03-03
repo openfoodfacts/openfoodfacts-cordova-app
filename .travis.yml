@@ -1,2 +1,36 @@
+language: android
+sudo: required
+node_js:
+  - 5.5
+jdk:
+  - oraclejdk8
+
+android:
+  components:
+    - build-tools-24.0.0
+    - android-24
 notifications:
   slack: openfoodfacts:pRddUFWA1nqbJ03sffyEzo18
+
+branches:
+  only:
+  - master
+
+install:
+  - sudo apt-get update
+  - sudo apt-get install --only-upgrade -y oracle-java8-installer
+  - npm cache clean
+  - npm install
+  - npm install -g cordova
+  - echo y | android update sdk -u --filter android-22,android-23,android-24
+
+before_script:
+  - cordova platform rm android
+  - cordova platform add android
+
+script:
+  - cordova prepare
+  - cordova build android --release -- --ant
+  
+release:
+  - exit 0  
