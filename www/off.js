@@ -2,8 +2,8 @@
 var moodstocksCurrentCode = 0;
 var continuous_scan = false;
 
-// Open Food Facts API server
-var api_server = "https://ssl-api.openfoodfacts.org";
+// Open Beauty Facts API server
+var api_server = "https://ssl-api.openbeautyfacts.org";
 
 var lc = 'en';
 var speech = 'off';
@@ -51,7 +51,7 @@ var appState = {
     imageUri: ""
 };
 
-var APP_STORAGE_KEY = "OpenFoodFactsAppState";
+var APP_STORAGE_KEY = "OpenBeautyFactsAppState";
 
 var app = {
     initialize: function() {
@@ -525,7 +525,7 @@ function update_language() {
 	$("form").each(function () {
 		var action = $(this).attr("action");
 		if (action) {
-			$(this).attr("action", action.replace(/(http|https)\/\/(.*)\.openfoodfacts\.org/, api_server));
+			$(this).attr("action", action.replace(/(http|https)\/\/(.*)\.openbeautyfacts\.org/, api_server));
 		}
 		});
 		
@@ -1001,7 +1001,7 @@ function showProduct( urlObj, options )
 		$.mobile.changePage( $page, { transition: "none" } );
 		
 		// Load and display the product (from memory or from the server)
-		// https://fr.openfoodfacts.org/api/v0/product/2165244002857.json
+		// https://fr.openbeautyfacts.org/api/v0/product/2165244002857.json
 		
 		console.log("getting " + api_server + '/api/v0.1/product/' + code + '.jqm.json');
 		

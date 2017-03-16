@@ -2,7 +2,7 @@
 <html>
 	<head>
 
-		<title>Open Food Facts</title>
+		<title>Open Beauty Facts</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 
@@ -53,11 +53,11 @@
 		<div data-role="page" id="page_home">
 			<div data-role="header" data-position="fixed" data-update-page-padding="false">
 				<a href="#page_parameters" data-rel="dialog" class="ui-btn-left" data-icon="gear" id="parameters_link" data-iconpos="notext"></a>
-				<h1>Open Food Facts</h1>
+				<h1>Open Beauty Facts</h1>
 				<a href="#page_menu" data-rel="dialog" class="ui-btn-right" id="login_link">Sign-in</a>
 			</div><!-- /header -->
 			<div data-role="content">
-				<form id="search" name="search" action="https://world.openfoodfacts.org/cgi/search.pl" method="post">
+				<form id="search" name="search" action="https://world.openbeautyfacts.org/cgi/search.pl" method="post">
 					<label for="search_terms" class="i18n" data-i18n="msg_search">Search a product by name or brand:</label>
 					<input type="hidden" name="action" value="process" />
 					<input type="hidden" name="jqm" value="1" />
@@ -81,7 +81,7 @@
 			<div data-role="content" data-inset="true">
 				<div id="login_form">
 					<p class="i18n" data-i18n="msg_please_login"></p>
-					<form id="login" name="login" method="post" action="https://world.openfoodfacts.org/cgi/session.pl">
+					<form id="login" name="login" method="post" action="https://world.openbeautyfacts.org/cgi/session.pl">
 						<label for="user_id" class="i18n" data-i18n="msg_userid">Username or e-mail address:</label>
 						<input type="hidden" name="jqm" value="1" />
 						<input name="user_id" tabindex="1" type="text">
@@ -89,7 +89,7 @@
 						<input name="password" tabindex="2" type="password">
 						<div id="login_button">
 							<a href="#" data-role="button" onclick="$('#login').submit();" class="i18n" data-i18n="msg_login">Sign-in</a>
-							<p class="i18n" data-i18n="msg_register">No account yet? <a href="https://world.openfoodfacts.org/cgi/user.pl" target="_blank">Create an account</a></p>
+							<p class="i18n" data-i18n="msg_register">No account yet? <a href="https://world.openbeautyfacts.org/cgi/user.pl" target="_blank">Create an account</a></p>
 						</div>
 					</form>
 				</div><!-- /login_form -->

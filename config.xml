@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.openfoodfacts.scanner" android-versionCode="250" version="2.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>OpenFoodFacts</name>
+<widget id="org.openbeautyfacts.scanner" android-versionCode="250" version="2.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>OpenBeautyFacts</name>
     <description>
-       Scan the barcode of food products, decrypt labels and contribute to the Open Food Facts project.
+       Scan the barcode of beauty products, decrypt labels and contribute to the Open Beauty Facts project.
     </description>
-    <author email="contact@openfoodfacts.org" href="https://openfoodfacts.org">
+    <author email="contact@openbeautyfacts.org" href="https://openbeautyfacts.org">
         Stéphane Gigandet
     </author>
     <content src="index.html" />
