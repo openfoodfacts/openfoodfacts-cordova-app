@@ -2,26 +2,39 @@
 var moodstocksCurrentCode = 0;
 var continuous_scan = false;
 
+// Open Food Facts API server
+var api_server = "https://ssl-api.openfoodfacts.org";
+
 var lc = 'en';
 var speech = 'off';
 
 var supported_languages = {
 'ar':'العربية',
+'az':'Azərbaycan dili',
+'bg':'Български език',
+'bn':'বাংলা ভাষা',
+'ca':'català',
 'cs':'Čeština',
 'de':'Deutsch',
-'es':'Español',
+'el':'ελληνικά',
 'en':'English',
+'es':'Español',
 'fi':'Suomi',
 'fr':'Français',
+'gl':'Lingua galega',
 'gr':'ελληνικά',
 'he':'עברית',
 'it':'Italiano',
-'pl':'Polski',
+'ja':'日本語',
+'lv':'latviešu valoda',
+'ms':'Bahasa Melayu',
+'or':'ଓଡ଼ିଆ',
 'pt':'Português',
 'ro':'Român',
 'ru':'Русский',
+'ta':'தமிழ்',
 'tr':'Türk',
-'zh':'中文',
+'cn':'中文',
 }
 
 var code;
@@ -339,7 +352,7 @@ for (var i = 0; i < length; i++) {
 		  console.log("Scanning failed: " + error);
       },
       {
-          "preferFrontCamera" : true, // iOS and Android
+          "preferFrontCamera" : false, // iOS and Android
           "showFlipCameraButton" : true, // iOS and Android
           "prompt" : "Place a barcode inside the scan area", // supported on Android only
           "formats" : "UPC_E,UPC_A,EAN_8,EAN_13,CODE_128,CODE_39,CODE_93,CODABAR,ITF,RSS14,RSS_EXPANDED", // default: all but PDF_417 and RSS_EXPANDED
@@ -512,7 +525,7 @@ function update_language() {
 	$("form").each(function () {
 		var action = $(this).attr("action");
 		if (action) {
-			$(this).attr("action", action.replace(/\/(world-)?(..)\.openfoodfacts\.org/, '/world-' + lc + '.openfoodfacts.org'));
+			$(this).attr("action", action.replace(/(http|https)\/\/(.*)\.openfoodfacts\.org/, api_server));
 		}
 		});
 		
@@ -665,7 +678,7 @@ function uploadFile(path) {
 	uploads_in_progress++;
 
     ft.upload(path,
-        "https://world-" + lc + ".openfoodfacts.org/cgi/product_image_upload.pl",
+        api_server + "/cgi/product_image_upload.pl",
         function(result) {
         	uploads_in_progress--;
             console.log('Upload success: ' + result.responseCode);
@@ -990,9 +1003,9 @@ function showProduct( urlObj, options )
 		// Load and display the product (from memory or from the server)
 		// https://fr.openfoodfacts.org/api/v0/product/2165244002857.json
 		
-		console.log("getting " + 'https://world' + lc + '.openfoodfacts.org/api/v0.1/product/' + code + '.jqm.json');
+		console.log("getting " + api_server + '/api/v0.1/product/' + code + '.jqm.json');
 		
-		$.get('https://world-' + lc + '.openfoodfacts.org/api/v0.1/product/' + code + '.jqm.json',
+		$.get(api_server + '/api/v0.1/product/' + code + '.jqm.json',
 				 function(data) {
 				
 			// alert("data.status: " + data.status + " data.jqm: " + data.jqm);
@@ -1024,7 +1037,7 @@ function showProduct( urlObj, options )
 					params.password = window.localStorage.getItem("password");
 				}
 				
-			    var url = "https://world-" + lc + ".openfoodfacts.org/cgi/product_jqm.pl" ; // the script where you handle the form input.
+			    var url = api_server + "/cgi/product_jqm.pl" ; // the script where you handle the form input.
 			    
 			    $("#save").button("disable").button("refresh");
 			    $("#saving").show();
