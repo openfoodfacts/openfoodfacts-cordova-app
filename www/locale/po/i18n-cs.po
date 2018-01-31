@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 10:24-0500\n"
+"PO-Revision-Date: 2018-01-31 13:32-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +39,7 @@ msgstr "Obrázek obdržen, děkuji vám!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Databáze je aktuální."
 
 #: .msg_back
 msgid "Back"
@@ -47,11 +47,7 @@ msgstr "Zpět"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
-
-#: .%241+has+%242+%7B%7Bplural%3A%242%7Ckitten%7Ckittens%7D%7D.+%7B%7Bgender%3A%243%7CHe%7CShe%7D%7D+loves+to+play+with+%7B%7Bplural%3A%242%7Cit%7Cthem%7D%7D.
-msgid "$1 has $2 {{plural:$2|kitten|kittens}}. {{gender:$3|He|She}} loves to play with {{plural:$2|it|them}}."
-msgstr ""
+msgstr "Probíhá aktualizace databáze."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -79,19 +75,19 @@ msgstr "Parametry"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Uživatelské jméno:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Více informací"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Převod textu na řeč:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Skenovat produkt před telefonem"
 
 #: .msg_uploading
 msgid "Sending in progress"
@@ -144,7 +140,7 @@ msgstr "Přidat produkt bez čárového kódu"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Skenovat čárový kód pro vyhledání nebo přidání produktu."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
