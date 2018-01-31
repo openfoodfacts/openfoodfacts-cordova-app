@@ -78,8 +78,8 @@ msgid "Parameters"
 msgstr "Parameters"
 
 #: .msg_userid
-msgid "Username or e-mail address:"
-msgstr "Username or e-mail address:"
+msgid "Username:"
+msgstr "Username:"
 
 #: .msg_more_info
 msgid "More info"
