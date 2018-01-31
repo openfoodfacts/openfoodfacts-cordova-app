@@ -1,0 +1,16 @@
+files:
+  - source: /www/locale/po/i18n-en.po
+    translation: /www/locale/po/i18n-%two_letters_code%.po
+    languages_mapping:
+      two_letters_code:
+        pt-BR: pt-rBR
+        pt-PT: pt-rPT
+        zh-CN: zh-rCN
+        en-AU: en-rAU
+        en-GB: en-rGB
+        nl-BE: nl-rBE
+        nl: nl
+        zh-TW: zh-rTW
+        zh-HK: zh-rHK
+        sr-CS: b+sr+Latn
+        sr: sr
