@@ -136,10 +136,10 @@ msgstr "Search"
 
 #: .msg_register
 msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 msgstr ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 
 #: .msg_add_product_without_barcode
