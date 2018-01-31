@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 10:24-0500\n"
+"PO-Revision-Date: 2018-01-31 13:33-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: LOLCAT\n"
 "MIME-Version: 1.0\n"
@@ -49,10 +49,6 @@ msgstr "crwdns36991:0crwdne36991:0"
 msgid "Database update in progress."
 msgstr "crwdns36992:0crwdne36992:0"
 
-#: .%241+has+%242+%7B%7Bplural%3A%242%7Ckitten%7Ckittens%7D%7D.+%7B%7Bgender%3A%243%7CHe%7CShe%7D%7D+loves+to+play+with+%7B%7Bplural%3A%242%7Cit%7Cthem%7D%7D.
-msgid "$1 has $2 {{plural:$2|kitten|kittens}}. {{gender:$3|He|She}} loves to play with {{plural:$2|it|them}}."
-msgstr "crwdns36993:0{plural:$2|kitten|kittens}crwdnd36993:0{gender:$3|He|She}crwdnd36993:0{plural:$2|it|them}crwdne36993:0"
-
 #: .msg_language
 msgid "Preferred language:"
 msgstr "crwdns36994:0crwdne36994:0"
@@ -67,7 +63,7 @@ msgstr "crwdns36996:0crwdne36996:0"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr "crwdns37022:0crwdne37022:0"
+msgstr "crwdns37030:0crwdne37030:0"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -136,7 +132,7 @@ msgstr "crwdns37013:0crwdne37013:0"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr "crwdns37026:0crwdne37026:0"
+msgstr "crwdns37031:0crwdne37031:0"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
@@ -156,7 +152,7 @@ msgstr "crwdns37018:0crwdne37018:0"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr "crwdns37024:0crwdne37024:0"
+msgstr "crwdns37032:0crwdne37032:0"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
