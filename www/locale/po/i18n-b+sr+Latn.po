@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 14:31-0500\n"
+"PO-Revision-Date: 2018-01-31 14:40-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Serbian (Latin)\n"
 "MIME-Version: 1.0\n"
@@ -71,7 +71,7 @@ msgstr "Zdravo $1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Parametri"
 
 #: .msg_userid
 msgid "Username:"
@@ -132,7 +132,7 @@ msgstr "Pretraži"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Nemate nalog? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Kreirajte nalog</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
@@ -152,7 +152,7 @@ msgstr "Zdravo"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
