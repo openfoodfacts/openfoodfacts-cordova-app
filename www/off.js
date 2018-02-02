@@ -356,7 +356,8 @@ for (var i = 0; i < length; i++) {
           "showFlipCameraButton" : true, // iOS and Android
           "prompt" : "Place a barcode inside the scan area", // supported on Android only
           "formats" : "UPC_E,UPC_A,EAN_8,EAN_13,CODE_128,CODE_39,CODE_93,CODABAR,ITF,RSS14,RSS_EXPANDED", // default: all but PDF_417 and RSS_EXPANDED
-          "orientation" : "portrait" // Android only (portrait|landscape), default unset so it rotates with the device
+          //"orientation" : "portrait" // Android only (portrait|landscape), default unset so it rotates with the device
+		  "disableSuccessBeep" : true
       }
    );
 
@@ -525,7 +526,7 @@ function update_language() {
 	$("form").each(function () {
 		var action = $(this).attr("action");
 		if (action) {
-			$(this).attr("action", action.replace(/(http|https)\/\/(.*)\.openfoodfacts\.org/, api_server));
+			$(this).attr("action", action.replace(/\/(world-)?(..)\.openfoodfacts\.org/, '/world-' + lc + '.openfoodfacts.org'));
 		}
 		});
 		
@@ -644,22 +645,21 @@ function getImage() {
         
 }
 
-// Upload files to server
-//function uploadFile(mediaFile) {
-//    var ft = new FileTransfer(),
-//        path = mediaFile.fullPath,
-//        name = mediaFile.name;
-        
+
+ 
+   
+    
 function uploadFile(path) {
-     
+
+console.log("UploadFile, path: " + path);
+
+window.requestFileSystem(LocalFileSystem.PERSISTENT, 0, function (fs) {
+    console.log('file system open: ' + fs.name);
+	// remove file://
+	var new_path = path.replace(/file:\/\//, "");
+
 	var name = path;
 	name = name.replace(/.*\//, "");
-	
-	var ft = new FileTransfer();
-
-	console.log('Uploading image for product code: ' + code);
-	console.log('Uploading image path: ' + path);
-	console.log('Uploading image name: ' + name);
 	
 	var filename = name.replace(/\./, "_");
 	var uploading = "uploading_" + filename;
@@ -667,37 +667,85 @@ function uploadFile(path) {
 	if ($(uploading).length <= 0) {
 		$('#upload_image_result').append("<p id=\"" + uploading + "\"></p>");
 	}
-	$('#' + uploading).html('<img src="loading2.gif" style="margin-right:10px" />' + $.i18n("msg_uploading"));
-		
-	var params = {code: code, imagefield: "front" };
-	if (window.localStorage.getItem("user_id")) {
-		params.user_id = window.localStorage.getItem("user_id");
-		params.password = window.localStorage.getItem("password");
-	}
+	$('#' + uploading).html('<img src="loading2.gif" style="margin-right:10px" />' + $.i18n("msg_uploading"));	
+	
+	console.log("UploadFile, new path: " + new_path, " - filename: " + name);
+	
+	window.resolveLocalFileSystemURL(path, function (fileEntry) {
+    // fs.root.getFile(new_path, { create: true, exclusive: false }, function (fileEntry) {
+        fileEntry.file(function (file) {
+            var reader = new FileReader();
+            reader.onloadend = function() {
+                // Create a blob based on the FileReader "result", which we asked to be retrieved as an ArrayBuffer
+				console.log("new blob");
+                var blob = new Blob([new Uint8Array(this.result)], { type: "image/jpeg" });
+				
+				var formData = new FormData();
+				
+				formData.append("imagefield", "front");
+				formData.append("code", code);
+				if (window.localStorage.getItem("user_id")) {
+					formData.append("user_id", window.localStorage.getItem("user_id"));
+					formData.append("password", window.localStorage.getItem("password"));
+				}
+				
+				formData.append("imgupload_front", blob);
 
-	uploads_in_progress++;
+                //var oReq = new XMLHttpRequest();
+                //oReq.open("POST", "https://world-" + lc + ".openbeautyfacts.org/cgi/product_image_upload.pl", true);
+                //oReq.onload = function (oEvent) {
+                    // all done!
+				//	console.log("all done");
+                //};
+                // Pass the blob in to XHR's send method
+				//console.log("send blob");
 
-    ft.upload(path,
-        api_server + "/cgi/product_image_upload.pl",
-        function(result) {
+                //oReq.send(formData);
+				
+				console.log("ajax call");
+				
+				 $.ajax({ // create an AJAX call...
+						data: formData, // get the form data
+						contentType: false,
+						processData: false,
+						type: "POST", // GET or POST
+						url: "https://world-" + lc + ".openfoodfacts.org/cgi/product_image_upload.pl", // the file to call
+						success: function(data, status, jq) { // on success..
+							console.log("image_upload - ajax_call - success - status: " + status);
+
+
         	uploads_in_progress--;
-            console.log('Upload success: ' + result.responseCode);
+            console.log('Upload success: ' + status);
             console.log(result.bytesSent + ' bytes sent');
-            $('#' + uploading).html("<p>" + $.i18n("msg_uploaded") + "</p>");        
-        },
-        function(error) {
+            $('#' + uploading).html("<p>" + $.i18n("msg_uploaded") + "</p>");
+			
+						},
+						error: function(jq,status,message) {
+							console.log("image_upload - ajax_call" + 'A jQuery error has occurred. Status: ' + status + ' - Message: ' + message);
+
         	uploads_in_progress--;
-            console.log('Error uploading file - path:' + path + ' - error code: ' + error.code);
-			console.log("upload error source: " + error.source);
-			console.log("upload error target: " + error.target);
+            console.log('Error uploading file - path:' + path + ' - error code: ' + status);
             $('#' + uploading).html("<p>" + $.i18n("msg_upload_problem") + "<input id=\"" + uploading + "_retry\" type=\"button\" value=\"" + $.i18n("msg_upload_retry") + "\"\" ></p>");
             $('#' + uploading + "_retry").click(function() {
   				uploadFile(path);
 			});
-        },
-        { fileKey: 'imgupload_front', fileName: name, params : params});   
+        },								
+							
+						
+					});				
+				
+				uploads_in_progress++;
+            };
+            // Read the file as an ArrayBuffer
+			console.log("read file");
+            reader.readAsArrayBuffer(file);
+        }, function (err) { console.error('error getting fileentry file!' + err.toString()); });
+    }, function (err) { console.error('error getting file! ' + err.toString()); console.error('error getting file! ' + err.message); console.error('error getting file! ' + err.code); });
+	
+}, function (err) { console.error('error getting persistent fs! ' + err.toString()); });
+
 }
-    
+	
     
 
 	
@@ -1005,7 +1053,7 @@ function showProduct( urlObj, options )
 		
 		console.log("getting " + api_server + '/api/v0.1/product/' + code + '.jqm.json');
 		
-		$.get(api_server + '/api/v0.1/product/' + code + '.jqm.json',
+		$.get('https://world-' + lc + '.openfoodfacts.org/api/v0.1/product/' + code + '.jqm.json',
 				 function(data) {
 				
 			// alert("data.status: " + data.status + " data.jqm: " + data.jqm);
@@ -1037,7 +1085,7 @@ function showProduct( urlObj, options )
 					params.password = window.localStorage.getItem("password");
 				}
 				
-			    var url = api_server + "/cgi/product_jqm.pl" ; // the script where you handle the form input.
+			    var url = 'https://world-' + lc + '.openfoodfacts.org/cgi/product_jqm.pl" ; // the script where you handle the form input.
 			    
 			    $("#save").button("disable").button("refresh");
 			    $("#saving").show();
