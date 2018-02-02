@@ -45,14 +45,6 @@ msgstr "Back"
 msgid "Database update in progress."
 msgstr "Database update in progress."
 
-#: .%241+has+%242+%7B%7Bplural%3A%242%7Ckitten%7Ckittens%7D%7D.+%7B%7Bgender%3A%243%7CHe%7CShe%7D%7D+loves+to+play+with+%7B%7Bplural%3A%242%7Cit%7Cthem%7D%7D.
-msgid ""
-"$1 has $2 {{plural:$2|kitten|kittens}}. {{gender:$3|He|She}} loves to play "
-"with {{plural:$2|it|them}}."
-msgstr ""
-"$1 has $2 {{plural:$2|kitten|kittens}}. {{gender:$3|He|She}} loves to play "
-"with {{plural:$2|it|them}}."
-
 #: .msg_language
 msgid "Preferred language:"
 msgstr "Preferred language:"
@@ -78,8 +70,8 @@ msgid "Parameters"
 msgstr "Parameters"
 
 #: .msg_userid
-msgid "Username or e-mail address:"
-msgstr "Username or e-mail address:"
+msgid "Username:"
+msgstr "Username:"
 
 #: .msg_more_info
 msgid "More info"
@@ -136,10 +128,10 @@ msgstr "Search"
 
 #: .msg_register
 msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 msgstr ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 
 #: .msg_add_product_without_barcode
