@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:33-0500\n"
+"PO-Revision-Date: 2018-02-03 07:40-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgstr "Scannen"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Barcode: $1"
 
 #: .msg_password
 msgid "Password:"
@@ -39,7 +39,7 @@ msgstr "Das Bild wurde erhalten, danke!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Die Datenbank ist aktuell."
 
 #: .msg_back
 msgid "Back"
@@ -47,7 +47,7 @@ msgstr "Zurück"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Datenbankaktualisierung läuft."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -75,19 +75,19 @@ msgstr "Parameter"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Benutzername:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Mehr Informationen"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Sprachausgabe:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Scannen sie ein Produkt vor dem Telefon"
 
 #: .msg_uploading
 msgid "Sending in progress"
@@ -132,7 +132,7 @@ msgstr "Suchen"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Kein Account?? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Registrieren</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
