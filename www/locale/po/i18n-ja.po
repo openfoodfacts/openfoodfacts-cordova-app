@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:33-0500\n"
+"PO-Revision-Date: 2018-02-03 07:40-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -19,39 +19,39 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "検索中です"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "スキャン"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "バーコード: $1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "パスワード:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "画像を受け取りました。ありがとうございます!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "データベースは最新の状態です。"
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "戻る"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "データベースの更新中。"
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "お好みの言語:"
 
 #: .msg_logout
 msgid "Sign-out"
@@ -59,7 +59,7 @@ msgstr "サインアウト"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "名前またはブランドで製品を検索:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
@@ -67,47 +67,47 @@ msgstr ""
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "$1 さん、こんにちは!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "パラメーター"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "ユーザー名:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "詳細情報"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "テキスト読み上げ:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "電話の前の商品をスキャン"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "送信中"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "画像を送信できませんでした"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "接続に失敗しました: ネットワークに接続していますか?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "再試行"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "閉じる"
 
 #: .msg_login
 msgid "Sign-in"
@@ -115,15 +115,15 @@ msgstr "サインイン"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "接続中"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "製品 $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "サインインして、製品を追加したり製品のページを編集してください。"
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -136,15 +136,15 @@ msgstr ""
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "バーコードのない製品を追加"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "バーコードをスキャンして製品を検索したり追加してください。"
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "バーコードをスキャンして製品を検索したり追加してください:"
 
 #: .msg_tts_hello
 msgid "Hello"
@@ -161,5 +161,5 @@ msgstr "検索"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "ユーザー名またはパスワードが正しくありません"
 
