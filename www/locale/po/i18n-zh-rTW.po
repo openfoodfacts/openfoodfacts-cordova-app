@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:32-0500\n"
+"PO-Revision-Date: 2018-02-11 11:50-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -19,39 +19,39 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "搜尋進行中"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "掃描"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "條碼：$1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "密碼："
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "已收到圖片，謝謝！"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "資料庫已更新。"
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "正在更新資料庫。"
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "偏好的語言："
 
 #: .msg_logout
 msgid "Sign-out"
@@ -59,55 +59,55 @@ msgstr "登出"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "由名稱或條碼搜尋產品："
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "從 Open Food Facts 資料庫載入商品"
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "哈囉 $1！"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "參數"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "使用者名稱："
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "更多資訊"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "文字轉語音："
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "在手機前掃描產品"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "進行傳送中"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "無法傳送圖片"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "連線失敗：沒有網路？"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "重試"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "關閉"
 
 #: .msg_login
 msgid "Sign-in"
@@ -115,15 +115,15 @@ msgstr "登入"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "連線中"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "產品 $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "登入以新增或編輯產品頁。"
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -132,19 +132,19 @@ msgstr "搜尋"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "還沒有帳號？<a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">建立帳號</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "新增沒有條碼的產品"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "掃描條碼來搜尋或新增產品。"
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "掃描條碼來搜尋或新增產品："
 
 #: .msg_tts_hello
 msgid "Hello"
@@ -161,5 +161,5 @@ msgstr "搜尋"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "錯誤的使用者名稱或密碼"
 
