@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:33-0500\n"
+"PO-Revision-Date: 2018-02-11 11:50-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -19,39 +19,39 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Cari sedang dalam proses"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Scan"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Kode batang: $ 1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "Kata sandi:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Gambar diterima, terima kasih!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Database sudah up to date."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Kembali"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Pembaruan basis data sedang berlangsung."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Pilihan bahasa:"
 
 #: .msg_logout
 msgid "Sign-out"
@@ -59,55 +59,55 @@ msgstr "Keluar"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Cari produk berdasarkan nama atau merek:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "Memuat produk dari database Fakta Pangan Terbuka"
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Halo $1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Parameter"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Nama pengguna:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Info lebih lanjut"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Teks pidato:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Memindai produk di depan telepon"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Pengiriman sedang berlangsung"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "Gambar tidak bisa dikirim"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Menghubungkan gagal: tidak ada jaringan?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Coba lagi"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Tutup"
 
 #: .msg_login
 msgid "Sign-in"
@@ -115,15 +115,15 @@ msgstr "memasuki"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Menghubungkan"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Produk $ 1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Masuk untuk menambahkan produk atau mengedit halaman produk."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -132,19 +132,19 @@ msgstr "mencari "
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Belum mendaftar? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\"> membuat account</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Tambahkan produk tanpa kode batang"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Pindai kode batang untuk menemukan atau menambahkan produk."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Pindai kode batang untuk menemukan atau menambahkan produk:"
 
 #: .msg_tts_hello
 msgid "Hello"
@@ -152,7 +152,7 @@ msgstr "Halo"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
@@ -161,5 +161,5 @@ msgstr "mencari "
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Nama pengguna atau kata sandi buruk"
 
