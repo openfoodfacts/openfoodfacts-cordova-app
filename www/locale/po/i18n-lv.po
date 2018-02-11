@@ -1,17 +1,21 @@
-#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-lv.json
-#, fuzzy
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-01-31 13:33-0500\n"
+"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"Language-Team: Latvian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=3; plural=(n==0 ? 0 : n%10==1 && n%100!=11 ? 1 : 2);\n"
+"X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Language: lv\n"
+"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"Language: lv_LV\n"
 
 #: .msg_search_in_progress
 msgid "Search in progress"
@@ -45,12 +49,6 @@ msgstr "Atpakaļ"
 msgid "Database update in progress."
 msgstr ""
 
-#: .%241+has+%242+%7B%7Bplural%3A%242%7Ckitten%7Ckittens%7D%7D.+%7B%7Bgender%3A%243%7CHe%7CShe%7D%7D+loves+to+play+with+%7B%7Bplural%3A%242%7Cit%7Cthem%7D%7D.
-msgid ""
-"$1 has $2 {{plural:$2|kitten|kittens}}. {{gender:$3|He|She}} loves to play "
-"with {{plural:$2|it|them}}."
-msgstr ""
-
 #: .msg_language
 msgid "Preferred language:"
 msgstr ""
@@ -76,8 +74,8 @@ msgid "Parameters"
 msgstr "Iestatījumi"
 
 #: .msg_userid
-msgid "Username or e-mail address:"
-msgstr "Lietotājvārds vai epasta adresi:"
+msgid "Username:"
+msgstr ""
 
 #: .msg_more_info
 msgid "More info"
@@ -133,9 +131,7 @@ msgid "Search"
 msgstr "Meklēt"
 
 #: .msg_register
-msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
-"_blank\">Create an account</a>"
+msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
 msgstr ""
 
 #: .msg_add_product_without_barcode
@@ -161,8 +157,9 @@ msgstr ""
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "Meklēt"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
 msgstr ""
+

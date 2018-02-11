@@ -1,17 +1,21 @@
-#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-el.json
-#, fuzzy
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-01-31 13:33-0500\n"
+"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"Language: el_GR\n"
 
 #: .msg_search_in_progress
 msgid "Search in progress"
@@ -23,7 +27,7 @@ msgstr "Σάρωση"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr "Barcode: $1"
+msgstr ""
 
 #: .msg_password
 msgid "Password:"
@@ -43,12 +47,6 @@ msgstr "Πίσω"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
-
-#: .%241+has+%242+%7B%7Bplural%3A%242%7Ckitten%7Ckittens%7D%7D.+%7B%7Bgender%3A%243%7CHe%7CShe%7D%7D+loves+to+play+with+%7B%7Bplural%3A%242%7Cit%7Cthem%7D%7D.
-msgid ""
-"$1 has $2 {{plural:$2|kitten|kittens}}. {{gender:$3|He|She}} loves to play "
-"with {{plural:$2|it|them}}."
 msgstr ""
 
 #: .msg_language
@@ -76,8 +74,8 @@ msgid "Parameters"
 msgstr "Παράμετροι"
 
 #: .msg_userid
-msgid "Username or e-mail address:"
-msgstr "Όνομα χρήστη ή διεύθυνση email:"
+msgid "Username:"
+msgstr ""
 
 #: .msg_more_info
 msgid "More info"
@@ -125,8 +123,7 @@ msgstr "Προϊόν $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
-"Συνδεθείτε για να προσθέσετε προϊόντα ή να επεξεργαστείτε σελίδες προϊόντων."
+msgstr "Συνδεθείτε για να προσθέσετε προϊόντα ή να επεξεργαστείτε σελίδες προϊόντων."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -134,12 +131,8 @@ msgid "Search"
 msgstr "Αναζήτηση"
 
 #: .msg_register
-msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
-"_blank\">Create an account</a>"
+msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
 msgstr ""
-"Δεν έχετε λογαριασμό; <a href=\"http://world-el.openfoodfacts.org/cgi/user."
-"pl\" target=\"_blank\">Δημιουργία λογαριασμού</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
@@ -155,20 +148,18 @@ msgstr "Σαρώστε το barcode για να βρείτε ή να προσθ�
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr ""
+msgstr "Γειά σας"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
-"<img src=\"openfoodfacts-logo-el.png\" alt=\"Open Food Facts\" /><br /><p>Το "
-"Open Food Facts συλλέγει πληροφορίες και δεδομένα για προϊόντα διατροφής από "
-"όλο τον κόσμο σε μια ελεύθερη και ανοικτή βάση δεδομένων.</p>"
+msgstr "<img src=\"openfoodfacts-logo-el.png\" alt=\"Open Food Facts\" /><br /><p>Το Open Food Facts συλλέγει πληροφορίες και δεδομένα για προϊόντα διατροφής από όλο τον κόσμο σε μια ελεύθερη και ανοικτή βάση δεδομένων.</p>"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "Αναζήτηση"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
 msgstr "Εσφαλμένο όνομα χρήστη ή κωδικός"
+

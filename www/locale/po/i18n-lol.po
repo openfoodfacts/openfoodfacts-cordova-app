@@ -1,0 +1,165 @@
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json
+msgid ""
+msgstr ""
+"Project-Id-Version: openfoodfacts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-01 11:10+0200\n"
+"PO-Revision-Date: 2018-02-03 07:40-0500\n"
+"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"Language-Team: LOLCAT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: crowdin.com\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Language: lol\n"
+"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"Language: lol_US\n"
+
+#: .msg_search_in_progress
+msgid "Search in progress"
+msgstr "crwdns36985:0crwdne36985:0"
+
+#: .msg_scan
+msgid "Scan"
+msgstr "crwdns36986:0crwdne36986:0"
+
+#: .msg_barcode
+msgid "Barcode: $1"
+msgstr "crwdns36987:0crwdne36987:0"
+
+#: .msg_password
+msgid "Password:"
+msgstr "crwdns36988:0crwdne36988:0"
+
+#: .msg_uploaded
+msgid "Image received, thank you!"
+msgstr "crwdns36989:0crwdne36989:0"
+
+#: .msg_tts_database_sync_finished
+msgid "The database is up to date."
+msgstr "crwdns36990:0crwdne36990:0"
+
+#: .msg_back
+msgid "Back"
+msgstr "crwdns36991:0crwdne36991:0"
+
+#: .msg_tts_database_sync_in_progress
+msgid "Database update in progress."
+msgstr "crwdns36992:0crwdne36992:0"
+
+#: .msg_language
+msgid "Preferred language:"
+msgstr "crwdns36994:0crwdne36994:0"
+
+#: .msg_logout
+msgid "Sign-out"
+msgstr "crwdns36995:0crwdne36995:0"
+
+#: .msg_search
+msgid "Search a product by name or brand:"
+msgstr "crwdns36996:0crwdne36996:0"
+
+#: .msg_loading_product
+msgid "Loading product from the Open Food Facts database"
+msgstr "crwdns37036:0crwdne37036:0"
+
+#: .msg_hello
+msgid "Hello $1!"
+msgstr "crwdns36998:0crwdne36998:0"
+
+#: .msg_parameters
+msgid "Parameters"
+msgstr "crwdns36999:0crwdne36999:0"
+
+#: .msg_userid
+msgid "Username:"
+msgstr "crwdns37025:0crwdne37025:0"
+
+#: .msg_more_info
+msgid "More info"
+msgstr "crwdns37001:0crwdne37001:0"
+
+#: .msg_speech
+msgid "Text to speech:"
+msgstr "crwdns37002:0crwdne37002:0"
+
+#: .msg_tts_scan_product
+msgid "Scan a product in front of the phone"
+msgstr "crwdns37003:0crwdne37003:0"
+
+#: .msg_uploading
+msgid "Sending in progress"
+msgstr "crwdns37004:0crwdne37004:0"
+
+#: .msg_upload_problem
+msgid "The image could not be sent"
+msgstr "crwdns37005:0crwdne37005:0"
+
+#: .msg_connecting_failed
+msgid "Connecting failed: no network?"
+msgstr "crwdns37006:0crwdne37006:0"
+
+#: .msg_upload_retry
+msgid "Retry"
+msgstr "crwdns37007:0crwdne37007:0"
+
+#: .msg_close
+msgid "Close"
+msgstr "crwdns37008:0crwdne37008:0"
+
+#: .msg_login
+msgid "Sign-in"
+msgstr "crwdns37009:0crwdne37009:0"
+
+#: .msg_connecting
+msgid "Connecting"
+msgstr "crwdns37010:0crwdne37010:0"
+
+#: .msg_product_title
+msgid "Product $1"
+msgstr "crwdns37011:0crwdne37011:0"
+
+#: .msg_please_login
+msgid "Sign-in to add products or edit product pages."
+msgstr "crwdns37012:0crwdne37012:0"
+
+#: .msg_search_button
+msgctxt ".msg_search_button"
+msgid "Search"
+msgstr "crwdns37013:0crwdne37013:0"
+
+#: .msg_register
+msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
+msgstr "crwdns37037:0crwdne37037:0"
+
+#: .msg_add_product_without_barcode
+msgid "Add a product without barcode"
+msgstr "crwdns37015:0crwdne37015:0"
+
+#: .msg_scan_product_or_barcode
+msgid "Scan the barcode to find or add a product."
+msgstr "crwdns37016:0crwdne37016:0"
+
+#: .msg_scan_product
+msgid "Scan the barcode to find or add a product:"
+msgstr "crwdns37017:0crwdne37017:0"
+
+#: .msg_tts_hello
+msgid "Hello"
+msgstr "crwdns37018:0crwdne37018:0"
+
+#: .msg_description
+msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr "crwdns37038:0crwdne37038:0"
+
+#: .msg_search_title
+msgctxt ".msg_search_title"
+msgid "Search"
+msgstr "crwdns37020:0crwdne37020:0"
+
+#: .msg_connecting_bad_password
+msgid "Bad username or password"
+msgstr "crwdns37021:0crwdne37021:0"
+
