@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-14 07:40-0500\n"
+"PO-Revision-Date: 2018-02-14 07:50-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Kabyle\n"
 "MIME-Version: 1.0\n"
@@ -67,31 +67,31 @@ msgstr "Asali n ufaris i teddu seg taffa n isefka Open Food database"
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Azul $1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Iɣewwaṛen"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Isem n useqdac:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Ugar isalen"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Selket awal ɣer taɣect:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Semḍen afaris s tiliɣṛi"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Izen i teddu"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
