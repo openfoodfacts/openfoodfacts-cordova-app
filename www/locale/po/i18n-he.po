@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:33-0500\n"
+"PO-Revision-Date: 2018-02-14 09:10-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Hebrew\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +39,7 @@ msgstr "התמונה התקבלה, תודה!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "מסד הנתונים עדכני."
 
 #: .msg_back
 msgid "Back"
@@ -47,7 +47,7 @@ msgstr "חזרה"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "מתבצע עדכון של מסד נתונים."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -75,15 +75,15 @@ msgstr "משתנים"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "שם משתמש:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "מידע נוסף"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "טקסט לדיבור:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
