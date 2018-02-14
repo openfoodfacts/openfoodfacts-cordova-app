@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-14 09:10-0500\n"
+"PO-Revision-Date: 2018-02-14 09:20-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Hebrew\n"
 "MIME-Version: 1.0\n"
@@ -87,7 +87,7 @@ msgstr "טקסט לדיבור:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "יש לסרוק מוצר לפני הטלפון"
 
 #: .msg_uploading
 msgid "Sending in progress"
@@ -132,7 +132,7 @@ msgstr "חיפוש"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "אין לך חשבון עדיין? ניתן <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">ליצור חשבון</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
@@ -140,7 +140,7 @@ msgstr "הוספת מוצר ללא ברקוד"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "ניתן לסרוק את הברקוד כדי למצוא או להוסיף מוצר."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
