@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-14 08:00-0500\n"
+"PO-Revision-Date: 2018-02-14 08:10-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Kabyle\n"
 "MIME-Version: 1.0\n"
@@ -132,19 +132,19 @@ msgstr "Nadi"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Ulac amiḍan akka tura?<a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Snulfud amiḍan</a> "
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Rnu afaris mebla tangalt ifeggagen"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Semḍen tangalt ifeggagen i tiffin neɣ timarniwt ufaris."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Semḍen tangalt ifeggagen i tiffin neɣ timarniwt ufaris:"
 
 #: .msg_tts_hello
 msgid "Hello"
@@ -152,7 +152,7 @@ msgstr "Azul"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
@@ -161,5 +161,5 @@ msgstr "Nadi"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Isem n useqdac neɣ awal uffir diri-t"
 
