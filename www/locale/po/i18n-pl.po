@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-11 11:49-0500\n"
+"PO-Revision-Date: 2018-02-13 13:40-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -128,7 +128,7 @@ msgstr "Zaloguj się aby dodawać produkty lub edytować ich strony."
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr "Szukaj"
+msgstr "Poszukiwanie"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
@@ -157,7 +157,7 @@ msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr "Szukaj"
+msgstr "Poszukiwanie"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
