@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-14 07:50-0500\n"
+"PO-Revision-Date: 2018-02-14 08:00-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Kabyle\n"
 "MIME-Version: 1.0\n"
@@ -95,19 +95,19 @@ msgstr "Izen i teddu"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "Tugna ur tettwazen "
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Tuqqna ur teddi ara:ulac azeṭṭa?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Ɛreḍ tikelt nniḍen\n"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Mdel"
 
 #: .msg_login
 msgid "Sign-in"
@@ -115,15 +115,15 @@ msgstr "Qqen"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Tuqqna"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Afaris $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Qqen akken atternuḍ ifuras neɣ abeddel n isebtar n ifuras."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
