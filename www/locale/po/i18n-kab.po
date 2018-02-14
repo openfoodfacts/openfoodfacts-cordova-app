@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-14 07:20-0500\n"
+"PO-Revision-Date: 2018-02-14 07:30-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Kabyle\n"
 "MIME-Version: 1.0\n"
@@ -59,7 +59,7 @@ msgstr "Sens"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Anadi n usenfar s yisem neɣ ihwel:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
