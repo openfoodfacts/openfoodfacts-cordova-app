@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-14 07:12-0500\n"
+"PO-Revision-Date: 2018-02-14 07:20-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Kabyle\n"
 "MIME-Version: 1.0\n"
@@ -35,27 +35,27 @@ msgstr "Awal uffir:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Tugna tettwarmes,tanemmirt-ik!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Taffa n isefka ttwaleqmen"
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Tuɣalin"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Lqem n taffa isefka i teddu."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Tutlayt tebɣiḍ:"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr ""
+msgstr "Sens"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
