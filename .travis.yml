@@ -19,6 +19,8 @@ branches:
 install:
   - sudo apt-get update
   - sudo apt-get install --only-upgrade -y oracle-java8-installer
+  - curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
+  - sudo apt-get install -y nodejs
   - npm cache clean
   - npm install
   - npm install -g cordova
