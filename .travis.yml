@@ -7,8 +7,8 @@ jdk:
 
 android:
   components:
-    - build-tools-24.0.0
-    - android-24
+    - build-tools-26.0.2
+    - android-26
 notifications:
   slack: openfoodfacts:pRddUFWA1nqbJ03sffyEzo18
 
