@@ -4,14 +4,14 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:31-0500\n"
+"PO-Revision-Date: 2018-03-03 09:40-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Ukrainian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: crowdin.com\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: uk\n"
 "X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
@@ -39,7 +39,7 @@ msgstr "Зображення отримано, дякуємо!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "База даних оновлена."
 
 #: .msg_back
 msgid "Back"
@@ -47,7 +47,7 @@ msgstr "Назад"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Відбувається оновлення бази даних."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -75,19 +75,19 @@ msgstr "Параметри"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Ім'я користувача:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Детальніше"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Текст для озвучення:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Скануй продукт перед телефоном"
 
 #: .msg_uploading
 msgid "Sending in progress"
@@ -132,7 +132,7 @@ msgstr "Шукати"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Ще не маєш облікового запису? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Створи обліковий запис</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
@@ -140,7 +140,7 @@ msgstr "Додати продукт без штрихкоду"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Скануй штрих-код, щоб знайти або додати продукт."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
@@ -148,7 +148,7 @@ msgstr "Сканувати штрихкод для пошуку або дода�
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr ""
+msgstr "Вітаємо"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
@@ -157,7 +157,7 @@ msgstr "<img src=\"openfoodfacts-logo-uk.png\" alt=\"Open Food Facts\" /><br /><
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
