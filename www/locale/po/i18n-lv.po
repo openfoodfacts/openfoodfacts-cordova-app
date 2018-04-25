@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:33-0500\n"
+"PO-Revision-Date: 2018-04-25 03:33-0400\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Latvian\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Notiek meklēšana"
 
 #: .msg_scan
 msgid "Scan"
@@ -27,7 +27,7 @@ msgstr "Skenēt"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Svītrkods: $ 1"
 
 #: .msg_password
 msgid "Password:"
@@ -35,11 +35,11 @@ msgstr "Parole:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Attēls saņemts, paldies!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Datubāze ir atjaunināta."
 
 #: .msg_back
 msgid "Back"
@@ -47,11 +47,11 @@ msgstr "Atpakaļ"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Notiek Datu bāzes atjaunināšana."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Vēlamā valoda:"
 
 #: .msg_logout
 msgid "Sign-out"
@@ -59,11 +59,11 @@ msgstr "Izrakstīties"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Meklēt produktu pēc nosaukuma vai firmas zīmes:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "Ielādē Produktu no datubāzes \"Open Food Facts\""
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -75,31 +75,31 @@ msgstr "Iestatījumi"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Lietotājvārds:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Vairāk informācijas"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Teksta lasītājs:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Skenējiet produktu tālruņa priekšā"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Notiek Sūtīšana"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "Attēlu nevarēja nosūtīt"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Neizdevās izveidot savienojumu: nav tīkla?"
 
 #: .msg_upload_retry
 msgid "Retry"
@@ -119,11 +119,11 @@ msgstr "Savienojas"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Produkts $ 1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Pierakstīties, lai pievienotu produktus vai rediģētu produktu lapas."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -132,27 +132,27 @@ msgstr "Meklēt"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Vēl nav konta? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Izveidojiet kontu</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Pievienot produktu bez svītrkoda"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Skenējiet svītrkodu, lai atrastu vai pievienotu produktu."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Skenējiet svītrkodu, lai atrastu vai pievienotu produktu:"
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr ""
+msgstr "Čau"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
@@ -161,5 +161,5 @@ msgstr "Meklēt"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Nepareizs lietotājvārds vai parole"
 
