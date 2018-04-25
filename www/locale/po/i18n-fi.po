@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:33-0500\n"
+"PO-Revision-Date: 2018-04-25 03:33-0400\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Finnish\n"
 "MIME-Version: 1.0\n"
@@ -140,7 +140,7 @@ msgstr "Lisää tuote ilman viivakoodia"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Skannaa viivakoodi löytääksesi tai lisätäksesi tuotteen."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
