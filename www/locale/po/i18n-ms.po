@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:33-0500\n"
+"PO-Revision-Date: 2018-04-25 03:33-0400\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Malay\n"
 "MIME-Version: 1.0\n"
@@ -140,7 +140,7 @@ msgstr "Tambah produk tanpa barkod"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Imbas barkod untuk cari atau tambah produk."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
@@ -157,7 +157,7 @@ msgstr "<img src=\"openfoodfacts-logo-ms.png\" alt=\"Open Food Facts\" /><br /><
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "Gelintar"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
