@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:31-0500\n"
+"PO-Revision-Date: 2018-04-25 03:32-0400\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -19,19 +19,19 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Sökning pågår"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Skanna"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Streckkod: $1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "Lösenord:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
@@ -39,19 +39,19 @@ msgstr ""
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Databasen är uppdaterad."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Tillbaka"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Databasuppdatering pågår."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Önskat språk:"
 
 #: .msg_logout
 msgid "Sign-out"
@@ -67,23 +67,23 @@ msgstr ""
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Hej $1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Parametrar"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Användarnamn:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Mer info"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Text till tal:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "Bilden kunde inte skickas"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
@@ -103,11 +103,11 @@ msgstr ""
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Försök igen"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Stäng"
 
 #: .msg_login
 msgid "Sign-in"
@@ -115,11 +115,11 @@ msgstr "Logga in"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Ansluter"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Produkt $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
@@ -136,7 +136,7 @@ msgstr ""
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Lägg till en produkt utan streckkod"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
@@ -152,7 +152,7 @@ msgstr "Hallå"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
@@ -161,5 +161,5 @@ msgstr "Sök"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Fel användarnamn eller lösenord"
 
