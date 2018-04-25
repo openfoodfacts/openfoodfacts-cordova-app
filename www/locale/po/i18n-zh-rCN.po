@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:32-0500\n"
+"PO-Revision-Date: 2018-04-25 03:32-0400\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -19,95 +19,95 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "正在进行搜索"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "扫描"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "条形码：$1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "密码："
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "收到图片，谢谢！"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "数据库已是最新。"
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "后退"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "正在进行数据库更新。"
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "首选语言："
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr "登录"
+msgstr "登出"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "按名称或品牌搜索产品："
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "从 Open Food Facts 数据库加载产品"
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "你好 $1！"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "参数"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "用户名："
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "更多信息"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "文字转语音："
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "扫描手机前的产品"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "正在发送"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "图像无法发送"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "连接失败：没有网络？"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "重试"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: .msg_login
 msgid "Sign-in"
@@ -115,15 +115,15 @@ msgstr "登录"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "连接中"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "产品 $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "登陆以添加或编译一个产品页面。"
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -132,19 +132,19 @@ msgstr "搜索"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "还没有账号？<a href=\"https://world-zh.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">创建一个账号</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "添加没有条形码的产品"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "扫描条码以查找或添加产品。"
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "扫描条码以查找或添加产品："
 
 #: .msg_tts_hello
 msgid "Hello"
@@ -152,7 +152,7 @@ msgstr "您好"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
@@ -161,5 +161,5 @@ msgstr "搜索"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "错误的用户名或密码"
 
