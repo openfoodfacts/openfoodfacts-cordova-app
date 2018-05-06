@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:31-0500\n"
+"PO-Revision-Date: 2018-04-25 03:32-0400\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Tamil\n"
 "MIME-Version: 1.0\n"
@@ -157,7 +157,7 @@ msgstr "<img src=openfoodfacts-logo-en.png alt=ஓபன் புட் பா�
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "தேடுக"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"

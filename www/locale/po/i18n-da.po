@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:32-0500\n"
+"PO-Revision-Date: 2018-05-06 03:34-0400\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Danish\n"
 "MIME-Version: 1.0\n"
@@ -19,111 +19,111 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Søgning i gang"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Skan"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Stregkode: $1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "Adgangskode:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Foto modtaget, tak!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Databasen er opdateret."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Tilbage"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Databaseopdatering i gang."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Foretrukket sprog:"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr ""
+msgstr "Log ud"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Søg efter et produkt via navn eller mærke:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "Indlæser produkt fra databasen Open Food Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Hej $1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Parametre"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Brugernavn:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Yderligere info"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Tekst-til-tale:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Skan et produkt, der er foran mobilen"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Afsendelse i gang"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "Fotoet kunne ikke afsendes"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Tilslutning mislykkedes: Intet netværk?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Forsøg igen"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Luk"
 
 #: .msg_login
 msgid "Sign-in"
-msgstr "Logg inn"
+msgstr "Log ind"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Opretter forbindelse"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Produkt $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Log ind for at tilføje produkter eller redigere produktsider."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -132,27 +132,27 @@ msgstr "Søg"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Endnu ingen konto? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Opret en konto</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Tilføj et produkt uden stregkode"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Skan stregkoden for at finde eller tilføje et produkt."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Skan stregkoden for at finde eller tilføje et produkt:"
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr ""
+msgstr "Hej"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
@@ -161,5 +161,5 @@ msgstr "Søg"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Forkert brugernavn eller adgangskode"
 
