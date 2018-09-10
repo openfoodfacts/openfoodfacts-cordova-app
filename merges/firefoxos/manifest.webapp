@@ -4,7 +4,7 @@
         "*"
     ],
     "version": "2.4.3",
-    "name": "OpenBeautyFacts",
+    "name": "OpenFoodFacts",
     "description": "Scan the barcode of beauty products, decrypt labels and contribute to the Open Food Facts project.",
     "developer": {
         "name": "Stéphane Gigandet",

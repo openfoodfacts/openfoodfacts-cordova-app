@@ -7,7 +7,7 @@ var rootdir = process.argv[2];
 if(rootdir) {
     var filename = 'beep.caf';
         if(fs.existsSync(filename)) {
-	        fs.copy(filename, 'platforms/ios/OpenBeautyFacts/Resources/CDVBarcodeScanner.bundle/' + filename, { replace: true }, function(e) {
+	        fs.copy(filename, 'platforms/ios/OpenFoodFacts/Resources/CDVBarcodeScanner.bundle/' + filename, { replace: true }, function(e) {
           console.warn(e);
             });
 	        } else {

@@ -38,7 +38,7 @@ var appState = {
     imageUri: ""
 };
 
-var APP_STORAGE_KEY = "OpenBeautyFactsAppState";
+var APP_STORAGE_KEY = "OpenFoodFactsAppState";
 
 var app = {
     initialize: function() {
@@ -513,7 +513,7 @@ function update_language() {
 	$("form").each(function () {
 		var action = $(this).attr("action");
 		if (action) {
-			$(this).attr("action", action.replace(/\/(world-)?(..)\.openbeautyfacts\.org/, '/world-' + lc + '.openfoodfacts.org'));
+			$(this).attr("action", action.replace(/\/(world-)?(..)\.openfoodfacts\.org/, '/world-' + lc + '.openfoodfacts.org'));
 		}
 		});
 		
