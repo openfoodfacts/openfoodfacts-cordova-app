@@ -11,8 +11,7 @@
 	"msg_please_login" : "要添加或修改产品页面，请先登录。",
 	"msg_userid" : "用户名或邮件地址：",
 	"msg_password" : "密码:",
-	"msg_register" : "还没有账户？ <a href=\"http://world-zh
-.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">点此新建一个</a>",
+	"msg_register" : "还没有账户？ <a href=\"https://world-zh.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">点此新建一个</a>",
 	"msg_language" : "语言偏好：",
 	"msg_language_info" : "会按权重返回对应语言的查找结果，且由您添加的产品会进入对应版本的 Open Food Facts 数据库中。",
 	"msg_parameters" : "参数",

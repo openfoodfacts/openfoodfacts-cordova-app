@@ -11,8 +11,7 @@
 	"msg_please_login" : "Sign-in to add products or edit product pages.",
 	"msg_userid" : "Username or e-mail address:",
 	"msg_password" : "Password:",
-	"msg_register" : "No account yet? <a href=\"http://world-en
-.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>",
+	"msg_register" : "No account yet? <a href=\"https://world-en.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>",
 	"msg_language" : "Preferred language:",
 	"msg_language_info" : "Searching will return in priority products in the selected language, and products you add will be added to the corresponding version of Open Food Facts.",
 	"msg_parameters" : "Parameters",

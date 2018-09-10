@@ -134,10 +134,10 @@ msgstr "ସନ୍ଧାନ"
 
 #: .msg_register
 msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"https://en.openfoodfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 msgstr ""
-"ଖାତା ଖୋଲି ନାହାନ୍ତି କି ? <a href=\"http://world-or.openfoodfacts.org/cgi/user."
+"ଖାତା ଖୋଲି ନାହାନ୍ତି କି ? <a href=\"https://world-or.openfoodfacts.org/cgi/user."
 "pl\" target=\"_blank\">ନୂଆ ଖାତାଟିଏ ଖୋଲନ୍ତୁ</a>"
 
 #: .msg_add_product_without_barcode

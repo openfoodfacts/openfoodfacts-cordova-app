@@ -134,10 +134,10 @@ msgstr "Traži"
 
 #: .msg_register
 msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"https://en.openfoodfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 msgstr ""
-"Idalje nemate korisnički račun? <a href=\"http://world-"
+"Idalje nemate korisnički račun? <a href=\"https://world-"
 "sr@latin.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Registrujte "
 "korisnicki račun</a>"
 

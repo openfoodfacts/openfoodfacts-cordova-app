@@ -132,7 +132,7 @@ msgstr "Cerca"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr "Non hai un account? <a href=\"http://it.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Crea un account</a>"
+msgstr "Non hai un account? <a href=\"https://it.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Crea un account</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
