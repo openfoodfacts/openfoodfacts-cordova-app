@@ -1,7 +1,7 @@
 {
   "name": "openfoodfacts-cordova-app",
   "version": "1.0.0",
-  "description": "Collaborative database of cosmetics",
+  "description": "Collaborative database of food products",
   "main": "www/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

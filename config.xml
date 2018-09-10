@@ -46,7 +46,7 @@
     <edit-config file="*-Info.plist" mode="merge" target="NSCameraUsageDescription">
         <string>Scanning products and taking photos</string>
     </edit-config>
-    <engine name="ios" spec="~4.5.5" />
     <plugin name="cordova-plugin-camera" spec="^4.0.3" />
     <plugin name="cordova-plugin-tts" spec="^0.2.3" />
+    <engine name="ios" spec="~4.5.5" />
 </widget>
