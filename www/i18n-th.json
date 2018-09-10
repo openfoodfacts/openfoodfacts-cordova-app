@@ -2,5 +2,7 @@
 	"msg_password" : "รหัสผ่าน:",
 	"msg_search_button" : "ค้นหา",
 	"msg_tts_hello" : "สวัสดี",
-	"msg_search_title" : "ค้นหา"
+	"msg_search_title" : "ค้นหา",
+	"msg_description" : "<img src=\"openfoodfacts-logo-th.png\" alt=\"Open Food Facts\" />",
+
 }
