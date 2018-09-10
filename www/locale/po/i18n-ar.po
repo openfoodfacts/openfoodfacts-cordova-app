@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:32-0500\n"
+"PO-Revision-Date: 2018-09-07 14:52\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Arabic\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr "الأرسال في تقدم"
+msgstr "جارى البحث"
 
 #: .msg_scan
 msgid "Scan"
@@ -27,7 +27,7 @@ msgstr "مسح"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "الباركود: $1"
 
 #: .msg_password
 msgid "Password:"
@@ -35,11 +35,11 @@ msgstr "كلمة المرور"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr "الصورة الواردة، وشكرا لكم"
+msgstr "تم توريد الصورة، شكراً لكم!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "قاعدة البيانات محدثة."
 
 #: .msg_back
 msgid "Back"
@@ -47,7 +47,7 @@ msgstr "عودة"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "جارى تحديث قاعدة البيانات."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -55,7 +55,7 @@ msgstr "اللغة المفضلة:"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr "المغادرة"
+msgstr "تسجيل الخروج"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
@@ -63,7 +63,7 @@ msgstr "البحث حسب اسم المنتج أو العلامة التجاري
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr "تحميل المنتوج من قاعدة البيانات حقائق مفتوحة عن الطعام"
+msgstr "تحميل المنتج من قاعدة بيانات Open Food Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -75,19 +75,19 @@ msgstr "المعلمات"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "اسم المستخدم:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "ملعومات إضافية"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "النص إلى الكلام:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "امسح منتجًا أمام الهاتف"
 
 #: .msg_uploading
 msgid "Sending in progress"
@@ -132,7 +132,7 @@ msgstr "بحث "
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "ليس لديك حساب؟<a href=\"http://ar.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">إنشاء حساب</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
