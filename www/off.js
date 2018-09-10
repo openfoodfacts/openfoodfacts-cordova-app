@@ -1087,7 +1087,7 @@ function showProduct( urlObj, options )
 		// Load and display the product (from memory or from the server)
 		// https://fr.openfoodfacts.org/api/v0/product/2165244002857.json
 		
-		console.log("getting " + 'https://world' + lc + '.openfoodfacts.org/api/v0.1/product/' + code + '.jqm.json');
+		console.log("getting " + 'https://world-' + lc + '.openfoodfacts.org/api/v0.1/product/' + code + '.jqm.json');
 		
 		$.get('https://world-' + lc + '.openfoodfacts.org/api/v0.1/product/' + code + '.jqm.json',
 				 function(data) {
@@ -1153,4 +1153,5 @@ function showProduct( urlObj, options )
 		}, 'json');
 	
 }
+//test
 
