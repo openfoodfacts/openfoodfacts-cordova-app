@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 
-var fs = require('fs');
+var fs = require('fs.extra');
 
 var rootdir = process.argv[2];
 
 if(rootdir) {
     var filename = 'beep.ogg';
         if(fs.existsSync(filename)) {
-	        fs.rename(filename, 'platforms/android/res/raw/' + filename, function(e) {
+	        fs.copy(filename, 'platforms/android/res/raw/' + filename, { replace: true }, function(e) {
           console.warn(e);
             });
 	        } else {

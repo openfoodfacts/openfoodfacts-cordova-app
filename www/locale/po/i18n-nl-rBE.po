@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-04-25 03:32-0400\n"
+"PO-Revision-Date: 2018-09-07 14:52\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Dutch, Belgium\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Scan"
 
 #: .msg_barcode
 msgid "Barcode: $1"
@@ -39,15 +39,15 @@ msgstr ""
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "De database is up-to-date."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Terug"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Database update bezig."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -103,11 +103,11 @@ msgstr ""
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Opnieuw proberen"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Sluiten"
 
 #: .msg_login
 msgid "Sign-in"
@@ -115,15 +115,15 @@ msgstr "Aanmelden"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Verbinden"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Product $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Log in om producten toe te voegen of productpagina's te bewerken."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -132,19 +132,19 @@ msgstr "Zoek"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Nog geen account? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Maak een account aan</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Voeg een product toe zonder barcode"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Scan de barcode om een ​​product te vinden of toe te voegen."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Scan de barcode om een ​​product te vinden of toe te voegen:"
 
 #: .msg_tts_hello
 msgid "Hello"
@@ -161,5 +161,5 @@ msgstr "Zoek"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Verkeerde gebruikersnaam of wachtwoord"
 

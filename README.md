@@ -1,6 +1,7 @@
 Open Food Facts Cordova mobile app
 ==========================
-[![Build Status](https://travis-ci.org/openfoodfacts/openfoodfacts-cordova-app.svg?branch=master)](https://travis-ci.org/openfoodfacts/openfoodfacts-cordova-app) [![Stories in Ready](https://badge.waffle.io/openfoodfacts/cordova-app.svg?label=ready&title=Ready)](https://waffle.io/openfoodfacts/cordova-app)
+
+[![Build Status](https://travis-ci.org/openfoodfacts/cordova-app.svg?branch=master)](https://travis-ci.org/openfoodfacts/cordova-app) [![Stories in Ready](https://badge.waffle.io/openfoodfacts/cordova-app.svg?label=ready&title=Ready)](https://waffle.io/openfoodfacts/cordova-app)
 
 
 This application is based on [Apache Cordova](https://cordova.apache.org/)
@@ -59,9 +60,10 @@ https://en.wiki.openfoodfacts.org/Mobile_App_Development_Notes
 
 ## What is Open Food Facts?
 
-### A food products database
+### A Beauty products database
 
-Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels.
+Open Food Facts is a database of beauty products with ingredients, allergens facts and all the tidbits of information we can find on product labels.
+It's a sister product of Open Food Facts.
 
 ### Made by everyone
 
@@ -70,7 +72,7 @@ Open Food Facts is a non-profit association of volunteers.
 
 ### For everyone
 
-Data about food is of public interest and has to be open. The complete database is published as open data and can be reused by anyone and for any use. Check-out the cool reuses or make your own!
+Data about beauty products is of public interest and has to be open. The complete database is published as open data and can be reused by anyone and for any use. Check-out the cool reuses or make your own!
 - <https://world.openfoodfacts.org>
 
 ### Translate Open Food Facts in your language

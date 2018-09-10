@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-04-25 03:33-0400\n"
+"PO-Revision-Date: 2018-07-14 14:32\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Galician\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +39,7 @@ msgstr "Recibiuse a imaxe, grazas."
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "A base de datos está actualizada."
 
 #: .msg_back
 msgid "Back"
@@ -47,7 +47,7 @@ msgstr "Volver"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Actualización da base de datos en proceso."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -75,19 +75,19 @@ msgstr "Parámetros"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Nome de usuaria:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Máis info"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Texto a fala:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Escanee un produto enfronte ao móbil"
 
 #: .msg_uploading
 msgid "Sending in progress"
@@ -132,7 +132,7 @@ msgstr "Buscar"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Non ten conta? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Cree unha conta</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
