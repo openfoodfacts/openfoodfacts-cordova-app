@@ -1,0 +1,9 @@
+{
+	"msg_scan" : "स्कैन",
+	"msg_password" : "पासवर्ड:",
+	"msg_userid" : "उपयोगकर्ता नाम:",
+	"msg_login" : "साइन इन करें",
+	"msg_search_button" : "ढूंढें",
+	"msg_description" : "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />",
+	"msg_search_title" : "ढूंढें"
+}

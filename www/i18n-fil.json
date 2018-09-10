@@ -1,0 +1,10 @@
+{
+	"msg_password" : "Password:",
+	"msg_logout" : "Sign-out",
+	"msg_userid" : "Username:",
+	"msg_login" : "Mag-sign-in",
+	"msg_search_button" : "Hanapin",
+	"msg_tts_hello" : "Kamusta",
+	"msg_description" : "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />",
+	"msg_search_title" : "Hanapin"
+}
