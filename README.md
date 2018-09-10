@@ -54,6 +54,7 @@ Plugins should be automatically installed
 * cordova-plugin-camera
 * cordova-plugin-tts
 * cordova-plugin-file
+* cordova-plugin-statusbar
 
 # Development notes
 
