@@ -132,7 +132,7 @@ msgstr "Chercher"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr "Pas encore de compte? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Créer un compte</a>"
+msgstr "Pas encore de compte? <a href=\"https://world-fr.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Créer un compte</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
