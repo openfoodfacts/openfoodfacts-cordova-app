@@ -32,7 +32,7 @@
 	"msg_scan_product_or_barcode" : "Vonalkód beolvasása a termék megtalálásához vagy hozzáadásához.",
 	"msg_scan_product" : "Vonalkód beolvasása a termék megtalálásához vagy hozzáadásához:",
 	"msg_tts_hello" : "Helló",
-	"msg_description" : "<img src=\"openfoodfacts-logo-hu.png\" alt=\"Open Food Facts\" />",
+	"msg_description" : "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />",
 	"msg_search_title" : "Keres",
 	"msg_connecting_bad_password" : "Rossz felhasználói név vagy jelszó"
 }

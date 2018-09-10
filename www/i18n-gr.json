@@ -24,7 +24,7 @@
 	"msg_scan_product_or_barcode" : "Σαρώστε το barcode για να βρείτε ή να προσθέσετε ένα προϊόν.",
 	"msg_scan_product" : "Σαρώστε το barcode για να βρείτε ή να προσθέσετε ένα προϊόν:",
 	"msg_tts_hello" : "Γειά σας",
-	"msg_description" : "<img src=\"openfoodfacts-logo-el.png\" alt=\"Open Food Facts\" /><br /><p>Το Open Food Facts συλλέγει πληροφορίες και δεδομένα για προϊόντα διατροφής από όλο τον κόσμο σε μια ελεύθερη και ανοικτή βάση δεδομένων.</p>",
+	"msg_description" : "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" /><br /><p>Το Open Food Facts συλλέγει πληροφορίες και δεδομένα για προϊόντα διατροφής από όλο τον κόσμο σε μια ελεύθερη και ανοικτή βάση δεδομένων.</p>",
 	"msg_search_title" : "Αναζήτηση",
 	"msg_connecting_bad_password" : "Εσφαλμένο όνομα χρήστη ή κωδικός"
 }
