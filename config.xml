@@ -29,6 +29,7 @@
         <preference name="StatusBarOverlaysWebView" value="false" />
         <preference name="StatusBarBackgroundColor" value="#dddddd" />
         <preference name="StatusBarStyle" value="lightcontent" />
+        <plugin spec="cordova-plugin-statusbar" />
         <hook src="overwrite_beep_ios.js" type="before_compile" />
     </platform>
     <plugin name="cordova-plugin-whitelist" spec="^1.3.3" />
