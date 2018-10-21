@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:28-0500\n"
+"PO-Revision-Date: 2018-10-21 15:14\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Sinhala\n"
 "MIME-Version: 1.0\n"
@@ -19,35 +19,35 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "සොයමින් පවතී"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "ස්කෑන්"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "දඬුකේතය:$1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "මුරපදය:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "ඡායාරූපය ලැබුණා, ස්තූතියි!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "දත්ත සමුදාය යාවත්කාලීන කර ඇත."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "ආපසු"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "දත්ත සමුදාය යාවත්කාලීන කරමින් පවතී."
 
 #: .msg_language
 msgid "Preferred language:"
