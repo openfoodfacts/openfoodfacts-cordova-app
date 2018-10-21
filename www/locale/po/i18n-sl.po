@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-04-25 03:32-0400\n"
+"PO-Revision-Date: 2018-10-21 15:14\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Slovenian\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Poteka iskanje"
 
 #: .msg_scan
 msgid "Scan"
@@ -43,15 +43,15 @@ msgstr ""
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Nazaj"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "V teku je posodobitev baze podatkov."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Izbrani jezik:"
 
 #: .msg_logout
 msgid "Sign-out"
@@ -59,7 +59,7 @@ msgstr ""
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Poiščite izdelek po imenu ali blagovni znamki:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
@@ -67,11 +67,11 @@ msgstr ""
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Pozdravljeni $1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Parametri"
 
 #: .msg_userid
 msgid "Username:"
@@ -79,35 +79,35 @@ msgstr "Uporabniško ime:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Več informacij"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Besedilo v govor:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Skenirajte izdelek pred telefonom"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Pošiljanje v teku"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "Slike ni bilo mogoče poslati"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Povezovanje ni uspelo: ni omrežja?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Poskusi znova"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Zapri"
 
 #: .msg_login
 msgid "Sign-in"
@@ -152,7 +152,7 @@ msgstr ""
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr ""
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
@@ -161,5 +161,5 @@ msgstr "Iskanje"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Neveljavno uporabniško ime ali geslo"
 
