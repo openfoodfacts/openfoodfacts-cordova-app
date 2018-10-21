@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-04-25 03:32-0400\n"
+"PO-Revision-Date: 2018-10-21 15:14\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: English, Australia\n"
 "MIME-Version: 1.0\n"
@@ -63,7 +63,7 @@ msgstr "Search a product by name or brand:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr "Loading product from the Open Food Facts database"
+msgstr ""
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -132,7 +132,7 @@ msgstr "Search"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
+msgstr ""
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
@@ -152,7 +152,7 @@ msgstr "Hello"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr ""
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
