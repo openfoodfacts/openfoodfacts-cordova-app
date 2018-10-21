@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-13 08:37-0500\n"
+"PO-Revision-Date: 2018-10-21 15:15\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: LOLCAT\n"
 "MIME-Version: 1.0\n"
@@ -19,147 +19,147 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr "crwdns36985:0crwdne36985:0"
+msgstr "crwdns101390:0crwdne101390:0"
 
 #: .msg_scan
 msgid "Scan"
-msgstr "crwdns36986:0crwdne36986:0"
+msgstr "crwdns101392:0crwdne101392:0"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr "crwdns36987:0crwdne36987:0"
+msgstr "crwdns101394:0crwdne101394:0"
 
 #: .msg_password
 msgid "Password:"
-msgstr "crwdns36988:0crwdne36988:0"
+msgstr "crwdns101396:0crwdne101396:0"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr "crwdns36989:0crwdne36989:0"
+msgstr "crwdns101398:0crwdne101398:0"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr "crwdns36990:0crwdne36990:0"
+msgstr "crwdns101400:0crwdne101400:0"
 
 #: .msg_back
 msgid "Back"
-msgstr "crwdns36991:0crwdne36991:0"
+msgstr "crwdns101402:0crwdne101402:0"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr "crwdns36992:0crwdne36992:0"
+msgstr "crwdns101404:0crwdne101404:0"
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr "crwdns36994:0crwdne36994:0"
+msgstr "crwdns101406:0crwdne101406:0"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr "crwdns36995:0crwdne36995:0"
+msgstr "crwdns101408:0crwdne101408:0"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr "crwdns36996:0crwdne36996:0"
+msgstr "crwdns101410:0crwdne101410:0"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr "crwdns37058:0crwdne37058:0"
+msgstr "crwdns101462:0crwdne101462:0"
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr "crwdns36998:0crwdne36998:0"
+msgstr "crwdns101414:0crwdne101414:0"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr "crwdns36999:0crwdne36999:0"
+msgstr "crwdns101416:0crwdne101416:0"
 
 #: .msg_userid
 msgid "Username:"
-msgstr "crwdns37025:0crwdne37025:0"
+msgstr "crwdns101418:0crwdne101418:0"
 
 #: .msg_more_info
 msgid "More info"
-msgstr "crwdns37001:0crwdne37001:0"
+msgstr "crwdns101420:0crwdne101420:0"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr "crwdns37002:0crwdne37002:0"
+msgstr "crwdns101422:0crwdne101422:0"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr "crwdns37003:0crwdne37003:0"
+msgstr "crwdns101424:0crwdne101424:0"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr "crwdns37004:0crwdne37004:0"
+msgstr "crwdns101426:0crwdne101426:0"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr "crwdns37005:0crwdne37005:0"
+msgstr "crwdns101428:0crwdne101428:0"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr "crwdns37006:0crwdne37006:0"
+msgstr "crwdns101430:0crwdne101430:0"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr "crwdns37007:0crwdne37007:0"
+msgstr "crwdns101432:0crwdne101432:0"
 
 #: .msg_close
 msgid "Close"
-msgstr "crwdns37008:0crwdne37008:0"
+msgstr "crwdns101434:0crwdne101434:0"
 
 #: .msg_login
 msgid "Sign-in"
-msgstr "crwdns37009:0crwdne37009:0"
+msgstr "crwdns101436:0crwdne101436:0"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr "crwdns37010:0crwdne37010:0"
+msgstr "crwdns101438:0crwdne101438:0"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr "crwdns37011:0crwdne37011:0"
+msgstr "crwdns101440:0crwdne101440:0"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr "crwdns37012:0crwdne37012:0"
+msgstr "crwdns101442:0crwdne101442:0"
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr "crwdns37013:0crwdne37013:0"
+msgstr "crwdns101444:0crwdne101444:0"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr "crwdns37059:0crwdne37059:0"
+msgstr "crwdns101464:0crwdne101464:0"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr "crwdns37015:0crwdne37015:0"
+msgstr "crwdns101448:0crwdne101448:0"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr "crwdns37016:0crwdne37016:0"
+msgstr "crwdns101450:0crwdne101450:0"
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr "crwdns37017:0crwdne37017:0"
+msgstr "crwdns101452:0crwdne101452:0"
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr "crwdns37018:0crwdne37018:0"
+msgstr "crwdns101454:0crwdne101454:0"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr "crwdns37060:0crwdne37060:0"
+msgstr "crwdns101466:0crwdne101466:0"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr "crwdns37020:0crwdne37020:0"
+msgstr "crwdns101458:0crwdne101458:0"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr "crwdns37021:0crwdne37021:0"
+msgstr "crwdns101460:0crwdne101460:0"
 
