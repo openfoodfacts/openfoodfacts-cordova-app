@@ -4,18 +4,18 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-09-07 14:51\n"
+"PO-Revision-Date: 2018-10-21 15:14\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
-"Language-Team: Montenegrin (Cyrillic)\n"
+"Language-Team: Serbian (Cyrillic)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: crowdin.com\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Crowdin-Project: openfoodfacts\n"
-"X-Crowdin-Language: sr-Cyrl-ME\n"
+"X-Crowdin-Language: sr\n"
 "X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
-"Language: sr_Cyrl_ME\n"
+"Language: sr_SP\n"
 
 #: .msg_search_in_progress
 msgid "Search in progress"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: .msg_login
 msgid "Sign-in"
-msgstr ""
+msgstr "Prijavite se"
 
 #: .msg_connecting
 msgid "Connecting"
@@ -128,7 +128,7 @@ msgstr ""
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr ""
+msgstr "Pretraživanje"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
@@ -148,7 +148,7 @@ msgstr ""
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr ""
+msgstr "Здраво"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
@@ -157,7 +157,7 @@ msgstr ""
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "Pretraživanje"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
