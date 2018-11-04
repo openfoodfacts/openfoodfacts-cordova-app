@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-10-21 15:14\n"
+"PO-Revision-Date: 2018-11-04 14:35\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Sinhala\n"
 "MIME-Version: 1.0\n"
@@ -132,7 +132,7 @@ msgstr ""
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "තවමත් ගිණුමක් නැතිද? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">ගිණුමක් සාදන්න</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
