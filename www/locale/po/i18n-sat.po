@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:27-0500\n"
+"PO-Revision-Date: 2018-11-04 14:35\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Santali\n"
 "MIME-Version: 1.0\n"
@@ -19,19 +19,19 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "ᱥᱮᱸᱫᱽᱨᱟᱜ ᱠᱟᱱᱟ"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "ᱥᱠᱟᱱ"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "ᱵᱟᱨᱠᱚᱰ: $1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
@@ -39,11 +39,11 @@ msgstr ""
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "ᱰᱟᱴᱟᱵᱮᱥ ᱵᱟᱹᱭᱥᱟᱹᱣᱜ ᱠᱟᱱᱟ ᱾"
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "ᱨᱩᱣᱟᱹᱲ"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
@@ -67,23 +67,23 @@ msgstr ""
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "ᱡᱚᱦᱟᱨ $1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "ᱯᱟᱨᱟᱢᱤᱴᱚᱨ"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "ᱵᱟᱹᱲᱛᱤ ᱠᱟᱛᱷᱟ"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "ᱚᱞ ᱠᱷᱚᱱ ᱨᱚᱲ:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
@@ -115,7 +115,7 @@ msgstr ""
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "ᱡᱚᱲᱟᱣᱜ ᱠᱟᱱᱟ"
 
 #: .msg_product_title
 msgid "Product $1"
