@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-04-25 03:32-0400\n"
+"PO-Revision-Date: 2018-11-04 14:36\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Azerbaijani\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +39,7 @@ msgstr "Şəkil qəbul olunmuşdur! Təçəkkür edirik!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Verilənlər bazası yeniləndi."
 
 #: .msg_back
 msgid "Back"
@@ -47,7 +47,7 @@ msgstr "Geri"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Verilənlər bazasının yenilənməsi davam edir."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -75,19 +75,19 @@ msgstr "Xüsusiyyətlər"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "İstifadəçinin adı:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Daha ətraflı"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Danışıq mətni:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Telefonun ön kamerası ilə məhsul tədqiq edin (skan)"
 
 #: .msg_uploading
 msgid "Sending in progress"
