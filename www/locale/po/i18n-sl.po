@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-10-21 15:14\n"
+"PO-Revision-Date: 2018-11-04 14:35\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Slovenian\n"
 "MIME-Version: 1.0\n"
@@ -23,11 +23,11 @@ msgstr "Poteka iskanje"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Preberi"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Črtna koda: $1"
 
 #: .msg_password
 msgid "Password:"
@@ -35,11 +35,11 @@ msgstr "Geslo:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Slika je prejeta, hvala!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Zbirka podatkov je posodobljena."
 
 #: .msg_back
 msgid "Back"
@@ -63,7 +63,7 @@ msgstr "Poiščite izdelek po imenu ali blagovni znamki:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "Nalaganje izdeleka iz zbirke podatkov Open Beauty Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -115,15 +115,15 @@ msgstr "Prijava"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Povezujem"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Izdelek $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Prijava za dodajanje izdelkov ali urejanje strani izdelkov."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -132,19 +132,19 @@ msgstr "Iskanje"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Še nimate računa? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Ustvari račun</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Dodajte izdelek brez črtne kode"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Preberi črtno kodo za iskanje ali dodajanje izdelka."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Preberi črtno kodo za iskanje ali dodajanje izdelka:"
 
 #: .msg_tts_hello
 msgid "Hello"
@@ -152,7 +152,7 @@ msgstr ""
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
