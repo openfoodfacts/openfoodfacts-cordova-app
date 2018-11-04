@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:32-0500\n"
+"PO-Revision-Date: 2018-11-04 14:36\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Berber\n"
 "MIME-Version: 1.0\n"
@@ -19,31 +19,31 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Ar sul itli"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Azray"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Maf aman"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "Tassarut:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Tawlaft tlkmt, tanmirt nk!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Sassi isker afa ivrat nzer."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Ori"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
