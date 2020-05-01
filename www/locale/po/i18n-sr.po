@@ -4,62 +4,62 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2020-05-01 21:43\n"
+"PO-Revision-Date: 2020-05-01 21:45\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Montenegrin (Cyrillic)\n"
+"Language-Team: Serbian (Cyrillic)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Crowdin-Project: openfoodfacts\n"
-"X-Crowdin-Language: sr-Cyrl-ME\n"
+"X-Crowdin-Language: sr\n"
 "X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
-"Language: sr_Cyrl_ME\n"
+"Language: sr_SP\n"
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Претрага је у току"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Скенирање"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Баркод: 1 Усд"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "Лозинка:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Слика је примљена, хвала!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "База података је ажурирана."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "У току је ажурирање базе података."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Језик којем дајете предност:"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr ""
+msgstr "Одјавите се"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Претражите производ по имену или марки:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
@@ -67,68 +67,68 @@ msgstr ""
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Поздрав $ 1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Параметри"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Корисничко име:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Више информација"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Текст у говор:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Скенирајте производ испред телефона"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Слање у току"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "Слика се не може послати"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Повезивање није успело: нема мреже?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Покушај поново"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Затвори"
 
 #: .msg_login
 msgid "Sign-in"
-msgstr ""
+msgstr "Prijavite se"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Повезивање"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Производ 1 Усд"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Пријавите се за додавање производа или уређивање страница производа."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr ""
+msgstr "Pretraživanje"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
@@ -136,19 +136,19 @@ msgstr ""
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Додајте производ без баркода"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Скенирајте баркод да бисте пронашли или додали производ."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Скенирајте баркод да бисте пронашли или додали производ:"
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr ""
+msgstr "Здраво"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
@@ -157,9 +157,9 @@ msgstr ""
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "Pretraživanje"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Неважеће корисничко име или лозинка"
 
