@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:31-0500\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:46\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zulu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: zu\n"
@@ -19,147 +19,147 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Usesho luqhubeka"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Skena"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Ibhakhodi: $ 1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "Iphasiwedi:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Isithombe sitholiwe, ngiyabonga!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "I-database isesikhathini."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Emuva"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Ukubuyekezwa kwedatha kuqhubeka."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Ulimi olukhethiwe:"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr ""
+msgstr "Sayinela ukuphuma"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Sesha umkhiqizo ngegama noma umkhiqizo:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "Ilayisha umkhiqizo ku-database ye-Open Beauty Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Sawubona $ 1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Amapharamitha"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Igama lomsebenzisi:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Ulwazi olungaphezulu"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Umbhalo wenkulumo:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Skena umkhiqizo phambi kwefoni"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Usesho luqhubeka"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "Isithombe asikwazanga ukuthunyelwa"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Ukuxhuma kuhlulekile: akukho inethiwekhi?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Zama futhi"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Vala"
 
 #: .msg_login
 msgid "Sign-in"
-msgstr ""
+msgstr "Ngena ngemvume"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Ukuxhuma"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Umkhiqizo $ 1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Ngena ngemvume ukungeza imikhiqizo noma ukuhlela amakhasi omkhiqizo."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr ""
+msgstr "Sesha"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Awekho i-akhawunti okwamanje? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Dala i-akhawunti</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Engeza umkhiqizo ngaphandle kwebhakhodi"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Skena ibhakhodi ukuze uthole noma engeza umkhiqizo."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Skena ibhakhodi ukuze uthole noma engeza umkhiqizo:"
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr ""
+msgstr "Sawubona"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "Sesha"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Igama lomsebenzisi elibi noma iphasiwedi"
 
