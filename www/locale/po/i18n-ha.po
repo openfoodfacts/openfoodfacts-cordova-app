@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:33-0500\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:44\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hausa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: ha\n"
@@ -19,47 +19,47 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Neman ci gaba"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Duba"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Barcode: $ 1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "Kalmar wucewa:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Hoton da aka karɓa, na gode!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Bayanin bayanan ya zama na zamani."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Koma baya"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Sabunta bayanai a ci gaba."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Harcen dakafi so:"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr ""
+msgstr "Don-fita"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Bincika samfurin ta hanyar suna ko alama:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
@@ -67,68 +67,68 @@ msgstr ""
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Sannu $ 1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Sigogi"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Sunanan da ake amfani:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Karin bayanai"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Rubutu dan magana:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Duba samfura a gaban wayar"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Aika cikin cigaba"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "Ba za a iya tura hoton ba"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Haɗi ya kasa: babu cibiyar sadarwa?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Sake gwadawa"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Rufe"
 
 #: .msg_login
 msgid "Sign-in"
-msgstr ""
+msgstr "Shiga ciki"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Haɗawa"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Samfura $ 1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Shiga ciki don ƙara samfurori ko shirya shafukan samfuri."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr ""
+msgstr "Bincika"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
@@ -136,19 +136,19 @@ msgstr ""
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Kara samfurin ba tare da lambar ɓarnar ba"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Duba katangar don nemo ko ƙara samfurin."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Duba katangar don nemo ko ƙara samfurin:"
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr ""
+msgstr "Sannu"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
@@ -157,9 +157,9 @@ msgstr ""
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "Bincika"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Sunan anfani mara kyau ko kalmar sirri"
 

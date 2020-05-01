@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-09-07 14:52\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:45\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: de\n"
@@ -47,7 +47,7 @@ msgstr "Zurück"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr "Datenbankaktualisierung läuft."
+msgstr "Datenbankaktualisierung wird ausgeführt."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -99,11 +99,11 @@ msgstr "Das Foto konnte nicht gesendet werden"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr "Verbinden fehlgeschlagen: Kein Netzwerk?"
+msgstr "Verbinden fehlgeschlagen: Keine Netzwerkverbindung?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr "Erneut versuchen"
+msgstr "Wiederholen"
 
 #: .msg_close
 msgid "Close"
@@ -115,7 +115,7 @@ msgstr "Anmelden"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr "Verbinde"
+msgstr "Verbinden"
 
 #: .msg_product_title
 msgid "Product $1"
@@ -161,5 +161,5 @@ msgstr "Suchen"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr "Falscher Benutzername oder Kennwort"
+msgstr "Ungültiger Benutzername oder Passwort"
 

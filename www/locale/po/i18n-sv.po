@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-04-25 03:32-0400\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:46\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: sv-SE\n"
@@ -35,7 +35,7 @@ msgstr "Lösenord:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Bild mottagen, tack!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
@@ -59,11 +59,11 @@ msgstr "Logga ut"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Sök en produkt med namn eller varumärke:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "Laddar produkt från databasen Open Food Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -87,11 +87,11 @@ msgstr "Text till tal:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Skanna en produkt framför telefonen"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Laddar upp"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
@@ -99,7 +99,7 @@ msgstr "Bilden kunde inte skickas"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Anslutning misslyckades: inget nätverk?"
 
 #: .msg_upload_retry
 msgid "Retry"
@@ -123,7 +123,7 @@ msgstr "Produkt $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Logga in för att lägga till produkter eller redigera produktsidor."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -132,7 +132,7 @@ msgstr "Sök"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Inget konto ännu? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Skapa ett konto</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
@@ -140,11 +140,11 @@ msgstr "Lägg till en produkt utan streckkod"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Skanna streckkoden för att hitta eller lägga till en produkt."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Skanna streckkoden för att hitta eller lägga till en produkt:"
 
 #: .msg_tts_hello
 msgid "Hello"

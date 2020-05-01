@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:32-0500\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:47\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Khmer\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: km\n"
@@ -111,7 +111,7 @@ msgstr ""
 
 #: .msg_login
 msgid "Sign-in"
-msgstr ""
+msgstr "ចូលប្រើប្រាស់"
 
 #: .msg_connecting
 msgid "Connecting"
@@ -128,7 +128,7 @@ msgstr ""
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr ""
+msgstr "ស្វែងរក"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
@@ -157,7 +157,7 @@ msgstr ""
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "ស្វែងរក"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"

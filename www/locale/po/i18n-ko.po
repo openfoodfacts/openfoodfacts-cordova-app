@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-04-25 03:33-0400\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:45\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: ko\n"
@@ -19,15 +19,15 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "검색 중"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "스캔"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "바코드: $1"
 
 #: .msg_password
 msgid "Password:"
@@ -35,79 +35,79 @@ msgstr "암호:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "이미지가 등록되었습니다. 감사합니다!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "데이터베이스가 최신 것입니다."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "돌아가기"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "데이터베이스 업데이트가 진행 중입니다."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "선호하는 언어:"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr ""
+msgstr "로그아웃"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "제품명 또는 브랜드로 제품 검색:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "Open Food Facts 데이터베이스 에서 제품을 살펴봅니다."
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "안녕하세요 $1님!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "매개 변수"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "사용자 이름:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "더 보기"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "텍스트 음성 변환:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "휴대 전화 앞의 제품 스캔"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "전송 중"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "이미지를 전송할 수 없습니다."
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "연결 실패: 네트워크 연결을 확인하세요"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "다시 시도"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "닫기"
 
 #: .msg_login
 msgid "Sign-in"
@@ -115,15 +115,15 @@ msgstr "로그인에"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "연결 중"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "제품 $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "제품을 추가하거나 제품 페이지를 편집하려면 로그인하십시오."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -132,19 +132,19 @@ msgstr "수색"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "아직 계정이 없습니까? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">계정 만들기</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "바코드가 없는 제품 추가"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "바코드를 스캔하여 제품을 찾거나 추가하십시오."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "바코드를 스캔하여 제품을 찾거나 추가하십시오:"
 
 #: .msg_tts_hello
 msgid "Hello"
@@ -152,7 +152,7 @@ msgstr "안녕하세요."
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
@@ -161,5 +161,5 @@ msgstr "수색"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "사용자 이름 또는 비밀번호가 잘못되었습니다."
 

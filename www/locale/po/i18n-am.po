@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:32-0500\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:43\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Amharic\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: am\n"
@@ -19,23 +19,23 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "ፍለጋው በሂደት ላይ"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "ቃኝ"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "ባርኮድ: $ 1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "የይለፍ ቃል:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "ምስል ደርሷል, አመሰግናለሁ!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."

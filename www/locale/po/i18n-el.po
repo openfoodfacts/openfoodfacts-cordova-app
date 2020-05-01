@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-04-25 03:33-0400\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:45\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: el\n"
@@ -27,7 +27,7 @@ msgstr "Σάρωση"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Barcode: $1"
 
 #: .msg_password
 msgid "Password:"
@@ -39,7 +39,7 @@ msgstr "Η εικόνα ελήφθη, ευχαριστούμε!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Η βάση δεδομένων είναι ενημερωμένη."
 
 #: .msg_back
 msgid "Back"
@@ -47,7 +47,7 @@ msgstr "Πίσω"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Ενημέρωση της βάσης δεδομένων σε εξέλιξη."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -75,19 +75,19 @@ msgstr "Παράμετροι"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Όνομα Λογαριασμού:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Περισσότερες πληροφορίες"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Κείμενο σε ήχο:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Σκανάρετε το προΪόν με την κύρια (μπροστινή) κάμερα"
 
 #: .msg_uploading
 msgid "Sending in progress"
@@ -132,7 +132,7 @@ msgstr "Αναζήτηση"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Δεν έχετε λογαριασμό; <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\"> Γραφτείτε τώρα </a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"

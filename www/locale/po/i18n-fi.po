@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-04-25 03:33-0400\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:46\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Finnish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: fi\n"
@@ -23,7 +23,7 @@ msgstr "Haku meneillään"
 
 #: .msg_scan
 msgid "Scan"
-msgstr "Skannaa"
+msgstr "Lue"
 
 #: .msg_barcode
 msgid "Barcode: $1"
@@ -39,7 +39,7 @@ msgstr "Kuva vastaanotettu, kiitos!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Tietokanta on ajantasalla."
 
 #: .msg_back
 msgid "Back"
@@ -47,7 +47,7 @@ msgstr "Takaisin"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Tietokannan päivitys käynnissä."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -59,7 +59,7 @@ msgstr "Kirjaudu ulos"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr "Etsi tuotetta nimellä tai tuotemerkillä"
+msgstr "Etsi tuotetta nimellä tai tuotemerkillä:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
@@ -75,19 +75,19 @@ msgstr "Parametrit"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Käyttäjätunnus:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Lisätietoja"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Teksti puheeksi:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Lue tuote puhelimella"
 
 #: .msg_uploading
 msgid "Sending in progress"
@@ -99,7 +99,7 @@ msgstr "Kuvan lähettäminen epäonnistui"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr "Yhdistäminen epäonnistui, mahdollinen verkko-ongelma."
+msgstr "Yhdistäminen epäonnistui: ei verkkoa?"
 
 #: .msg_upload_retry
 msgid "Retry"
@@ -132,7 +132,7 @@ msgstr "Etsi"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Vailla tiliä? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Luo uusi tili</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
@@ -140,11 +140,11 @@ msgstr "Lisää tuote ilman viivakoodia"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr "Skannaa viivakoodi löytääksesi tai lisätäksesi tuotteen."
+msgstr "Lue viivakoodi löytääksesi tai lisätäksesi tuotteen."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr "Skannaa viivakoodi löytääksesi tai lisätäksesi tuotteen:"
+msgstr "Lue viivakoodi löytääksesi tai lisätäksesi tuotteen:"
 
 #: .msg_tts_hello
 msgid "Hello"

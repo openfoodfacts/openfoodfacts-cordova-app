@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-09-07 14:52\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:45\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: nl\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Bezig met zoeken..."
 
 #: .msg_scan
 msgid "Scan"
@@ -27,7 +27,7 @@ msgstr "Scan"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Streepjescode: $1"
 
 #: .msg_password
 msgid "Password:"
@@ -35,7 +35,7 @@ msgstr "Wachtwoord:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Afbeelding ontvangen, bedankt!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
@@ -51,7 +51,7 @@ msgstr "Database update bezig."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Voorkeurstaal:"
 
 #: .msg_logout
 msgid "Sign-out"
@@ -59,19 +59,19 @@ msgstr "Afmelden"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Zoek naar een product op naam of merk:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "Product laden van de Open Food Facts database"
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Hallo $1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Parameters"
 
 #: .msg_userid
 msgid "Username:"
@@ -79,27 +79,27 @@ msgstr "Gebruikersnaam:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Meer informatie"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Tekst-naar-spraak:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Scan een product voor de telefoon"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Bezig met versturen"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "De afbeelding kan niet worden verstuurd"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Verbinden mislukt: geen internetverbinding?"
 
 #: .msg_upload_retry
 msgid "Retry"

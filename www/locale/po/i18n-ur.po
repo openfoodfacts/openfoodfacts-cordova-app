@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-09-07 14:52\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:44\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Urdu (India)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: ur-IN\n"
@@ -19,147 +19,148 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "تلاش جاری ہے"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "سکین"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "بارکوڈ: 1 امریکی ڈالر"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "پاس ورڈ:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "امیج وصول ہوگیا ہے، شکریہ!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "ڈیٹا بیس اپ ٹو ڈیٹ ہے"
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "واپس"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "ڈیٹا بیس کو اپ ڈیٹ کیا جارہا ہے۔"
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "ترجیحی زبان:"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr ""
+msgstr "سائن آوٹ"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "نام یا برانڈ کے ساتھ پراڈکٹ تلاش کریں:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "اوپن فوڈ فیکٹس کے ڈیٹا بیس سے پراڈکٹ لوڈ کی جارہی ہے"
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "ہیلو $1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "پیرامیٹرز"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "صارف نام:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "مذید معلومات"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "ٹیکسٹ ٹو سپیچ"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "فون کے سامنے پراڈکٹ سکین کریں"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "ترسیل جاری ہے"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "امیج نہیں بھیجا جا سکا"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "کونیکشن ناکام رہا: نیٹ ورک موجود نہیں؟"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "دوبارہ کوشش کریں"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "بند کریں"
 
 #: .msg_login
 msgid "Sign-in"
-msgstr ""
+msgstr "سائن ان"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "کونیکشن قائم کیا جارہاہے"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "پراڈکٹ $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "مصنوعات شامل کرنے یا مصنوعات کے صفحات کی تدوین کے لیے سائن ان کریں"
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr ""
+msgstr "تلاش کریں"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "ابھی تک آپ کا اکاونٹ نہیں بنا؟ \n"
+"<a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\"> اپنا اکاونٹ بنائیں </a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "بار کوڈ کے بغیر پراڈکٹ شامل کریں"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "پراڈکٹ تلاش کرنے یا شامل کرنے کے لیے بارکوڈ سکین کریں"
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "پراڈکٹ تلاش کرنے یا شامل کرنے کے لیے بارکوڈ سکین کریں"
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr ""
+msgstr "ہیلو"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "تلاش کریں"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "صارف نام یا پاس ورڈ صحیح نہیں"
 

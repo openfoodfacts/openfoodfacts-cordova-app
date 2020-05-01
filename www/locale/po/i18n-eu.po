@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-07-14 14:32\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:46\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Basque\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: eu\n"
@@ -19,95 +19,95 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Bilaketa martxan"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Eskaneatu"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Barra kodea: $1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "Pasahitza:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Irudia jaso da, eskerrik asko!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Datu-basea eguneratuta dago."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Atzera"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Datu-basea eguneratzen."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Hobetsitako hizkuntza:"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr ""
+msgstr "Amaitu saioa"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Produktu bat bilatu izena edo markarekin:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "Open Food Facts datu-baseko produktua kargatzea"
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Kaixo $1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Parametroak"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Erabiltzaile izena:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Informazio gehiago"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Testua hizketara:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Eskaneatu produktua telefono aurrean"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Bidalketa martxan"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "Irudia ezin izan da bidali"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Konexioak huts egin du: sarerik ez?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Berriro saiatu"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Itxi"
 
 #: .msg_login
 msgid "Sign-in"
@@ -115,15 +115,15 @@ msgstr "Hasi saioa"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Konektatzen"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Produktua $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Hasi saioa produktuak gehitzeko edo produktuaren horriak editatzeko."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -132,19 +132,19 @@ msgstr "Bilatu"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Konturik ez duzu oraindik? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Kontu bat sortu</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Gehitu produktua barra-kode gabe"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Eskaneatu barra-kodea produktua bilatu edo gehitzeko."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Eskaneatu barra-kodea produktua bilatu edo gehitzeko:"
 
 #: .msg_tts_hello
 msgid "Hello"
@@ -152,7 +152,7 @@ msgstr "Kaixo"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-eu.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
@@ -161,5 +161,5 @@ msgstr "Bilatu"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Erabiltzaile izen edo pasahitz okerra"
 
