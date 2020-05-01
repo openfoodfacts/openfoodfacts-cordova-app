@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-10-21 15:14\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:43\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Norwegian Bokmal\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: nb\n"
@@ -19,15 +19,15 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Søk pågår"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Skann"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Strekkode: $1"
 
 #: .msg_password
 msgid "Password:"
@@ -35,31 +35,31 @@ msgstr "Passord:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Bildet er mottatt, tusen takk!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Databasen er oppdatert."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Tilbake"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Oppdatering av databasen pågår."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Foretrukket språk:"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr ""
+msgstr "Logg ut"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Søk etter et produkt med navn eller varemerke:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
@@ -67,47 +67,47 @@ msgstr ""
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Hei $1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Parametre"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Brukernavn:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Mer informasjon"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Tekst til tale:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Skann et produkt foran telefonen"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Sending pågår"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "Bildet kunne ikke sendes"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Tilkoblingen mislyktes: ikke noe nettverk?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Prøv på nytt"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Lukk"
 
 #: .msg_login
 msgid "Sign-in"
@@ -115,15 +115,15 @@ msgstr "Logg inn"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Kobler til"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Produkt $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Logg inn for å legge til produkter eller endre produktsider."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -136,15 +136,15 @@ msgstr ""
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Legg til et produkt uten strekkode"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Skann strekkoden for å finne eller legge til et produkt."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Skann strekkoden for å finne eller legge til et produkt:"
 
 #: .msg_tts_hello
 msgid "Hello"
@@ -161,5 +161,5 @@ msgstr "Søk"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Dårlig brukernavn eller passord"
 
