@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-03-03 09:40-0500\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:43\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Breton\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=5; plural=(n%10==1 && (n%100!=11 || n%100!=71 || n%100!=91) ? 0 : n%10==2 && (n%100!=12 || n%100!=72 || n%100!=92) ? 1 : ((n%10>=3 && n%10<=4) || n%10==9) && ((n%100 < 10 || n%100 > 19) || (n%100 < 70 || n%100 > 79) || (n%100 < 90 || n%100 > 99)) ? 2 : (n!=0 && n%1;\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: br-FR\n"
@@ -19,147 +19,147 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "O klask"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Skanañ"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Kod barrennoù: $1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "Ger-tremen:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Skeudenn resevet, trugarez deoc'h!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "A-hiziv emañ an diaz-roadennoù."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Distro"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Oc'h hizivaat an diaz-roadennoù."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Yezh muiañ plijet:"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr ""
+msgstr "Digevreañ"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Klask war-lerc'h ur produ gant e anv pe e verk:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "O kargañ ar produ adalek diaz-roadennoù Open Food Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Demat $1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Arventennoù"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Anv arveriad:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Titouroù ouzhpenn"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Testenn e komzoù:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Skannit ur produ dirak ur pellgomzer"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "O vezañ kaset"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "N'hall ket bezañ kaset ar skeudenn"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Kevreañ sac'het: kenrouedad ebet?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Klask en-dro"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Serriñ"
 
 #: .msg_login
 msgid "Sign-in"
-msgstr ""
+msgstr "Kevreañ"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "O kevreañ"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Produ $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Kevreit evit ouzhpennañ produioù pe kemmañ o fajennoù."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr ""
+msgstr "Klask"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Kont ebet betek-hen? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Krouit ur gont</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Ouzhpennit ur produ hep kod-barrenn ebet"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Skannit ar c'hod-barrenn evit kavout pe ouzhpennañ ur produ."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Skannit ar c'hod-barrenn evit kavout pe ouzhpennañ ur produ:"
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr ""
+msgstr "Demat"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "Klask"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Anv-implijer pe ger-tremen fall"
 
