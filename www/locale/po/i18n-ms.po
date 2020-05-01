@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-04-25 03:33-0400\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:46\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Malay\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: ms\n"
@@ -39,7 +39,7 @@ msgstr "Imej diterima, terima kasih!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Pangkalan data adalah terkini."
 
 #: .msg_back
 msgid "Back"
@@ -47,7 +47,7 @@ msgstr "Undur"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Kemas kini pangkalan data sedang berlangsung."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -67,7 +67,7 @@ msgstr "Memuatkan produk dari pangkalan data Open Food Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Helo $1!"
 
 #: .msg_parameters
 msgid "Parameters"
@@ -75,19 +75,19 @@ msgstr "Parameter"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Nama Pengguna:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Maklumat lanjut"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Teks ke ucapan:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Imbas produk di hadapan fon"
 
 #: .msg_uploading
 msgid "Sending in progress"
@@ -148,7 +148,7 @@ msgstr "Imbas barkod untuk cari atau tambah produk:"
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr ""
+msgstr "Helo"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
