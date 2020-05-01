@@ -4,13 +4,13 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 13:33-0500\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2020-05-01 21:43\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Malagasy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
 "X-Crowdin-Language: mg\n"
@@ -19,47 +19,47 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Andalam-pikarohana"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Misafo"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Kaody bara: $ 1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "Kaody miafina:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Sary voaray, misaotra anao!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Raki-kevitra nohavaozina."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Miverina"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Andalam-panavaozana ny raki-kevitra."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Fiteny ampiasaina:"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr ""
+msgstr "Hiala"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Hitady ny vokatra arska ny anarana na marika:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
@@ -67,23 +67,23 @@ msgstr ""
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Salama $ 1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Masontsivana"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Anarana fampiasa:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Fanampim-pahalalana"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Teny ho lazaina:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
