@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2020-05-01 21:45\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2021-02-15 10:36\n"
+"Last-Translator: \n"
 "Language-Team: Czech\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,8 +13,10 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: cs\n"
-"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"X-Crowdin-File: i18n-en.po\n"
+"X-Crowdin-File-ID: 1944\n"
 "Language: cs_CZ\n"
 
 #: .msg_search_in_progress
@@ -63,7 +65,7 @@ msgstr "Hledat produkt pomocí jména nebo značky:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr "Načítání produktu z Otevřené databáze informací o jídle"
+msgstr "Načítání produktu z databáze Open Food Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -152,12 +154,12 @@ msgstr "Ahoj"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr "<img src=\"openfoodfacts-logo-cs.png\" alt=\"Open Food Facts\" /><br /><p>Otevřená databáze informací o jídle shromažďuje informace a údaje o potravinářských výrocích z celého světa ve svobodné a otevřené databázi.</p>"
+msgstr "<img src=\"openfoodfacts-logo-cs.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr "Vyhledat"
+msgstr "Vyhledávat"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"

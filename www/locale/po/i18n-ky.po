@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2020-05-01 21:46\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2021-02-15 10:39\n"
+"Last-Translator: \n"
 "Language-Team: Kyrgyz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,153 +13,155 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: ky\n"
-"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"X-Crowdin-File: i18n-en.po\n"
+"X-Crowdin-File-ID: 1944\n"
 "Language: ky_KG\n"
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Издөө жүрүп жатат"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Скандоо"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Штрих-код: $1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "Сырсөз:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Сүрөт алынды, рахмат!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Маалыматтар базасы жаңыланды."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Артка"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Маалыматтар базасы жаңыртылууда."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr ""
+msgstr "Тандалган тил:"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr ""
+msgstr "Чыгуу"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Өнүмдү аты же бренди боюнча изде:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr ""
+msgstr "Open Food Facts маалымат базасынан продукт жүктөлүүдө"
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Саламатсызбы, $ 1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Параметрлери"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Колдонуучунун аты:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Көбүрөөк маалымат"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Текстке сүйлөө:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Телефондун алдында өнүмдү сканерлеңиз"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Жөнөтүү аткарылууда"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "Сүрөт жөнөтүлбөй жатат"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Туташууга болбой жатат: тармак жокпу?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Кайталоо"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Жабуу"
 
 #: .msg_login
 msgid "Sign-in"
-msgstr ""
+msgstr "Кирүү"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Туташуу"
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Продукт $ 1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Өнүмдөрдү кошуу же өнүм баракчаларын түзөтүү үчүн кириңиз."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr ""
+msgstr "Издөө"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Азырынча каттоо эсеби жокпу? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Катталуу</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Штрих кодсуз өнүм кошуңуз"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Өнүмдү табуу же кошуу үчүн штрих-кодду сканерлеңиз."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Өнүмдү табуу же кошуу үчүн штрих-кодду сканерлеңиз:"
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr ""
+msgstr "Саламатсызбы"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr ""
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "Издөө"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Колдонуучу аты же сырсөз туура эмес"
 

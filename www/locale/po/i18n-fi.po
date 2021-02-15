@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2020-05-01 21:46\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2021-02-15 10:37\n"
+"Last-Translator: \n"
 "Language-Team: Finnish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,8 +13,10 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: fi\n"
-"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"X-Crowdin-File: i18n-en.po\n"
+"X-Crowdin-File-ID: 1944\n"
 "Language: fi_FI\n"
 
 #: .msg_search_in_progress
@@ -39,7 +41,7 @@ msgstr "Kuva vastaanotettu, kiitos!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr "Tietokanta on ajantasalla."
+msgstr "Tietokanta on ajan tasalla."
 
 #: .msg_back
 msgid "Back"
@@ -99,7 +101,7 @@ msgstr "Kuvan lähettäminen epäonnistui"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr "Yhdistäminen epäonnistui: ei verkkoa?"
+msgstr "Yhdistäminen epäonnistui: ei verkkoyhteyttä?"
 
 #: .msg_upload_retry
 msgid "Retry"
@@ -123,7 +125,7 @@ msgstr "Tuote $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr "Kirjaudu sisään lisätäksesi tuotteita tai muokataksesi tuotesivuja."
+msgstr "Kirjaudu sisään lisätäksesi tuotteita, tai muokataksesi tuotesivuja."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -152,7 +154,7 @@ msgstr "Hei"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr "<img src=\"openfoodfacts-logo-fi.png\" alt=\"Open Food Facts\" /><br /><p>Open Food Facts kerää maailmanlaajuisesti tietoja ruokatuotteista avoimeen ja ilmaiseen tietokantaan.</p>"
+msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"

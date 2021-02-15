@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2020-05-01 21:46\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2021-02-15 10:37\n"
+"Last-Translator: \n"
 "Language-Team: Galician\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,13 +13,15 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: gl\n"
-"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"X-Crowdin-File: i18n-en.po\n"
+"X-Crowdin-File-ID: 1944\n"
 "Language: gl_ES\n"
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr "Busca en proceso"
+msgstr "Facendo a busca"
 
 #: .msg_scan
 msgid "Scan"
@@ -35,19 +37,19 @@ msgstr "Contrasinal:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr "Recibiuse a imaxe, grazas."
+msgstr "Imaxe recibida, grazas!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr "A base de datos está actualizada."
+msgstr "Base de datos actualizada."
 
 #: .msg_back
 msgid "Back"
-msgstr "Volver"
+msgstr "Atrás"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr "Actualización da base de datos en proceso."
+msgstr "Facendo a actualiación da base de datos."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -59,7 +61,7 @@ msgstr "Saír"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr "Procurar un produto polo nome ou a marca:"
+msgstr "Buscar un produto polo nome ou marca:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
@@ -75,7 +77,7 @@ msgstr "Parámetros"
 
 #: .msg_userid
 msgid "Username:"
-msgstr "Nome de usuaria:"
+msgstr "Nome de usuario/a:"
 
 #: .msg_more_info
 msgid "More info"
@@ -87,23 +89,23 @@ msgstr "Texto a fala:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr "Escanee un produto enfronte ao móbil"
+msgstr "Escanee un produto enfronte ó móbil"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr "Envío en proceso"
+msgstr "Facendo o envío"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr "Non foi posíbel enviar a imaxe"
+msgstr "A imaxe non foi enviada"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr "Fallou a conexión: non hai unha rede?"
+msgstr "Fallou a conexión: sen liña?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr "Tentar de novo"
+msgstr "Tenta de novo"
 
 #: .msg_close
 msgid "Close"

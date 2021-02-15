@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2020-05-01 21:45\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2021-02-15 10:35\n"
+"Last-Translator: \n"
 "Language-Team: Catalan\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,17 +13,19 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: ca\n"
-"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"X-Crowdin-File: i18n-en.po\n"
+"X-Crowdin-File-ID: 1944\n"
 "Language: ca_ES\n"
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr "Cerca en progrés"
+msgstr "Cerca en curs"
 
 #: .msg_scan
 msgid "Scan"
-msgstr "Escàner"
+msgstr "Escanejar"
 
 #: .msg_barcode
 msgid "Barcode: $1"
@@ -35,7 +37,7 @@ msgstr "Contrasenya:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr "Imatge rebuda, gràcies!"
+msgstr "Hem rebut la imatge, gràcies!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
@@ -59,11 +61,11 @@ msgstr "Tanca la sessió"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr "Cerca un producte pel nom o marca:"
+msgstr "Cerca un producte pel nom o la marca:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr "Carregant el producte des de la base de dades de Open Food Facts"
+msgstr "S'està carregant el producte des de la base de dades d'Open Beauty Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -91,7 +93,7 @@ msgstr "Escanegeu un producte davant del telèfon"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr "L'enviament està en progrés"
+msgstr "S'està processant l'enviament"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
@@ -103,7 +105,7 @@ msgstr "La connexió ha fallat: sense xarxa?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr "Torna a provar"
+msgstr "Torneu-ho a provar"
 
 #: .msg_close
 msgid "Close"
@@ -111,7 +113,7 @@ msgstr "Tanca"
 
 #: .msg_login
 msgid "Sign-in"
-msgstr "Obre sessió"
+msgstr "Inicieu la sessió"
 
 #: .msg_connecting
 msgid "Connecting"
@@ -123,7 +125,7 @@ msgstr "Producte $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr "Obre sessió per afegir productes o editar les pàgines dels productes."
+msgstr "Inicieu la sessió per afegir o editar les pàgines dels productes."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -136,7 +138,7 @@ msgstr "Encara no teniu un compte? <a href=\"https://world.openfoodfacts.org/cgi
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr "Afegir un producte sense codi de barres"
+msgstr "Afegeix un producte sense codi de barres"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
@@ -152,7 +154,7 @@ msgstr "Hola"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr "<img src=\"openfoodfacts-logo-ca.png\" alt=\"Open Food Facts\" /><br /><p>Open Food Facts reuneiz informació i dates de productes alimenticis de tot el món a una base de dades oberta.</p>"
+msgstr "<img src=\"openbeautyfacts-logo-ca.png\" alt=\"Open Food Facts\" /><br /><p>Open Beauty Facts conté informació i dades de productes alimentaris de tot el món en una base de dades oberta.</p>"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
@@ -161,5 +163,5 @@ msgstr "Cerca"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr "Nom d'usuari o contrasenya incorrectes"
+msgstr "Identificador d'usuari o contrasenya incorrectes"
 
