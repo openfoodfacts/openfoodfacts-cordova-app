@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2020-05-01 21:46\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2022-02-18 21:29\n"
+"Last-Translator: \n"
 "Language-Team: Ukrainian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,8 +13,10 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: uk\n"
-"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"X-Crowdin-File: i18n-en.po\n"
+"X-Crowdin-File-ID: 1944\n"
 "Language: uk_UA\n"
 
 #: .msg_search_in_progress
@@ -63,7 +65,7 @@ msgstr "Шукати продукт за назвою або торгівель�
 
 #: .msg_loading_product
 msgid "Loading product from the Open Food Facts database"
-msgstr "Завантажуємо дані продукту з бази даних Open Food Facts"
+msgstr ""
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -128,11 +130,11 @@ msgstr "Увійдіть для додавання продуктів або р�
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr "Шукати"
+msgstr "Пошук"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr "Ще не маєш облікового запису? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Створи обліковий запис</a>"
+msgstr ""
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
@@ -152,7 +154,7 @@ msgstr "Вітаємо"
 
 #: .msg_description
 msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr "<img src=\"openfoodfacts-logo-uk.png\" alt=\"Open Food Facts\" /><br /><p>Open Food Facts збирає дані щодо харчових продуктів з усього світу до вільної і відкритої бази даних.</p>"
+msgstr ""
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
