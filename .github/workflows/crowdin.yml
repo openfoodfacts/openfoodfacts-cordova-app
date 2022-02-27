@@ -2,7 +2,7 @@ name: Crowdin Sync
 
 on:
   push:
-    branches: [ master ]
+    branches: [ crowdin-trigger ]
 
 jobs:
   synchronize-with-crowdin:
