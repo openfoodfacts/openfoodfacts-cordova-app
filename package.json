@@ -20,7 +20,7 @@
     "cordova-android": "^11.0.0",
     "cordova-browser": "^6.0.0",
     "cordova-ios": "^7.0.1",
-    "cordova-plugin-camera": "^6.0.0",
+    "cordova-plugin-camera": "^7.0.0",
     "cordova-plugin-file": "^7.0.0",
     "cordova-plugin-statusbar": "^3.0.0",
     "cordova-plugin-tts": "^0.2.3",
