@@ -18,7 +18,7 @@
   "homepage": "https://github.com/openfoodfacts/openfoodfacts-cordova-app",
   "dependencies": {
     "cordova-android": "^12.0.1",
-    "cordova-browser": "^6.0.0",
+    "cordova-browser": "^7.0.0",
     "cordova-ios": "^7.0.1",
     "cordova-plugin-camera": "^7.0.0",
     "cordova-plugin-file": "^7.0.0",
