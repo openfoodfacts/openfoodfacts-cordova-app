@@ -1,9 +1,6 @@
 Open Food Facts Cordova mobile app
 ==========================
 
-[![Build Status](https://travis-ci.org/openfoodfacts/cordova-app.svg?branch=master)](https://travis-ci.org/openfoodfacts/cordova-app) [![Stories in Ready](https://badge.waffle.io/openfoodfacts/cordova-app.svg?label=ready&title=Ready)](https://waffle.io/openfoodfacts/cordova-app)
-
-
 This application is based on [Apache Cordova](https://cordova.apache.org/)
 framework which allows you to develop for multiple platforms (iOS, Android,
 Firefox OS for a few of them) at the same time.
@@ -82,12 +79,8 @@ Data about beauty products is of public interest and has to be open. The complet
 ### Translate Open Food Facts in your language
 
 You can help translate Open Food Facts and the app at (no technical knowledge required, takes a minute to signup): <br>
-https://translations.launchpad.net/openfoodfacts/openfoodfacts-ios/+translations
+https://translate.openfoodfacts.org/project/openfoodfacts
 
 ## Bugs and feature requests
 
 Have a bug or a feature request? Please search for existing and closed issues. If your problem or idea is not addressed yet, please open a new issue.
-
-## Waffle Throughput Graph
-
-[![Throughput Graph](https://graphs.waffle.io/openfoodfacts/cordova-app/throughput.svg)](https://waffle.io/openfoodfacts/cordova-app/metrics/throughput)
